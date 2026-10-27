@@ -1,0 +1,7 @@
+{
+  "name": "disney-store-watch",
+  "private": true,
+  "type": "module",
+  "scripts": { "scan": "node scan.mjs" },
+  "engines": { "node": ">=20" }
+}
