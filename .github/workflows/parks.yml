@@ -1,0 +1,47 @@
+name: Disneyland watch
+
+on:
+  schedule:
+    - cron: '43 2,5,8,11,14,17,20,23 * * *'   # 30 minutes after the main scan, UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false
+
+jobs:
+  parks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Scan Disneyland page
+        run: node scan-parks.mjs
+      - name: Commit snapshot
+        run: |
+          git config user.name "disney-store-watch"
+          git config user.email "actions@users.noreply.github.com"
+          git pull --rebase origin main || true
+          git add data/
+          if git diff --cached --quiet; then echo "no changes"; exit 0; fi
+          git commit -m "parks snapshot $(date -u +%Y-%m-%dT%H:%MZ): $(head -1 data/parks-report.md)"
+          git push
+      - name: Post report to the log issue when something changed
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          test -f data/parks-report.md || exit 0
+          head -1 data/parks-report.md | grep -q '^PARKS: [0-9]' || exit 0
+          head -1 data/parks-report.md | grep -qE '^PARKS: 0 new · 0 price · 0 stock$' && exit 0
+          N=$(gh issue list --state open --label log --json number -q '.[0].number')
+          if [ -z "$N" ]; then
+            gh label create log --force --color 0E8A16 --description "automated scan log" || true
+            N=$(gh issue create --title "Disney Store new-merchandise watch - log" --label log --body "Automated reports land here as comments. Only runs that found changes post." | grep -oE '[0-9]+$')
+          fi
+          gh issue comment "$N" --body-file parks-comment.md
