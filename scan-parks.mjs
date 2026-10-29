@@ -80,7 +80,7 @@ async function main() {
   fs.mkdirSync('data', { recursive: true });
   const prev = fromCsv(FILE);
   const { items, total } = await scan();
-  if (items.size < 3) throw new Error(`Disneyland page returned only ${items.size} items — aborting`);
+  if (items.size === 0) { console.log('Disneyland page has 0 products right now - skipping, nothing saved'); return; }
   if (prev && items.size < prev.size * 0.5) throw new Error(`Disneyland page shrank ${prev.size} -> ${items.size} — aborting`);
 
   const now = new Date().toISOString();
