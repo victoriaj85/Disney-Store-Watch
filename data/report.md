@@ -1,7 +1,7 @@
-CHANGES: 0 new arrivals · 0 featured · 0 other catalog adds · 0 price · 0 stock
-# Disney Store watch — 2026-11-02T12:00:21.403Z
+CHANGES: 0 new arrivals · 0 featured · 172 other catalog adds · 0 price · 0 stock
+# Disney Store watch — 2026-11-02T15:01:48.523Z
 
-New Arrivals grid: 494 items scanned (site says 494) · Featured/Coming Soon page: 20 · Catalog sitemap: 4688 products
+New Arrivals grid: 493 items scanned (site says 493) · Featured/Coming Soon page: 20 · Catalog sitemap: 4853 products
 
 ## NEW on the New Arrivals page (0)
 - none
@@ -9,8 +9,179 @@ New Arrivals grid: 494 items scanned (site says 494) · Featured/Coming Soon pag
 ## New on the Featured / Coming Soon page (0)
 - none
 
-## New in the full catalog (not on New Arrivals) (0)
-- none
+## New in the full catalog (not on New Arrivals) (172)
+- alice in wonderland peter pan storybook journal — https://www.disneystore.com/alice-in-wonderland-peter-pan-storybook-journal-435391325997.html
+- alien classic xenomorph graphic novel art t shirt customized — https://www.disneystore.com/alien-classic-xenomorph-graphic-novel-art-t-shirt-customized-700000330SSCG.html
+- alien facehugger retro 1979 movie poster t shirt customized — https://www.disneystore.com/alien-facehugger-retro-1979-movie-poster-t-shirt-customized-700000328SSCG.html
+- alien property of lv 426 acheron colony t shirt customized — https://www.disneystore.com/alien-property-of-lv-426-acheron-colony-t-shirt-customized-700000329SSCG.html
+- ariel explore this wonderful world trinket box by precious moments the little mermaid — https://www.disneystore.com/ariel-explore-this-wonderful-world-trinket-box-by-precious-moments-the-little-mermaid-842181150903.html
+- ariel singing doll the little mermaid 11 toys for tots donation item — https://www.disneystore.com/ariel-singing-doll-the-little-mermaid-11-toys-for-tots-donation-item-416122301121.html
+- belles books sculpted mug beauty and the beast — https://www.disneystore.com/belles-books-sculpted-mug-beauty-and-the-beast-433111351622.html
+- big hero 6 figure set toys for tots donation item — https://www.disneystore.com/big-hero-6-figure-set-toys-for-tots-donation-item-417132301538.html
+- cars pj pals for boys — https://www.disneystore.com/cars-pj-pals-for-boys-2405057390905M.html
+- chip n dale figural holiday bag charm by baublebar — https://www.disneystore.com/chip-n-dale-figural-holiday-bag-charm-by-baublebar-442052196773.html
+- chip n dale light up christmas tree mini figure — https://www.disneystore.com/chip-n-dale-light-up-christmas-tree-mini-figure-436001341086.html
+- cinderella beauty and the beast storybook journal — https://www.disneystore.com/cinderella-beauty-and-the-beast-storybook-journal-435391325812.html
+- constance hatchaway constance the bride journal by jasmine becket griffith the haunted mansion — https://www.disneystore.com/constance-hatchaway-constance-the-bride-journal-by-jasmine-becket-griffith-the-haunted-mansion-435391326727.html
+- constance hatchaway constance the bride mug by jasmine becket griffith the haunted mansion — https://www.disneystore.com/constance-hatchaway-constance-the-bride-mug-by-jasmine-becket-griffith-the-haunted-mansion-433111356184.html
+- disney logo holiday zip hoodie for adults navy — https://www.disneystore.com/disney-logo-holiday-zip-hoodie-for-adults-navy-5201057431295M.html
+- disney park snacks charm necklace — https://www.disneystore.com/disney-park-snacks-charm-necklace-443001684785.html
+- disneyland holiday pullover sweatshirt for adults — https://www.disneystore.com/disneyland-holiday-pullover-sweatshirt-for-adults-5102057431449M.html
+- disneyland logo holiday zip hoodie for adults navy — https://www.disneystore.com/disneyland-logo-holiday-zip-hoodie-for-adults-navy-5201057431296M.html
+- disneyland logo knit beanie cap for adults — https://www.disneystore.com/disneyland-logo-knit-beanie-cap-for-adults-445051152979.html
+- donald duck plush 7 toys for tots donation item — https://www.disneystore.com/donald-duck-plush-7-toys-for-tots-donation-item-415152300883.html
+- dumbo 85th anniversary pullover sweatshirt for adults — https://www.disneystore.com/dumbo-85th-anniversary-pullover-sweatshirt-for-adults-5201107691226M.html
+- dumbo mug — https://www.disneystore.com/dumbo-mug-433111351219.html
+- eeyore floral mug winnie the pooh — https://www.disneystore.com/eeyore-floral-mug-winnie-the-pooh-433111351394.html
+- eeyore pullover sweatshirt for adults winnie the pooh — https://www.disneystore.com/eeyore-pullover-sweatshirt-for-adults-winnie-the-pooh-5201106031269M.html
+- fantasyland castle and fireworks ring set by pandora — https://www.disneystore.com/fantasyland-castle-and-fireworks-ring-set-by-pandora-4305107850700M.html
+- fantasyland castle holiday light up musical figure — https://www.disneystore.com/fantasyland-castle-holiday-light-up-musical-figure-434081327631.html
+- fantasyland castle holiday magic bag charm by little words project — https://www.disneystore.com/fantasyland-castle-holiday-magic-bag-charm-by-little-words-project-443002021787.html
+- fantasyland castle holiday mug — https://www.disneystore.com/fantasyland-castle-holiday-mug-433111504844.html
+- fantasyland castle holiday t shirt for girls — https://www.disneystore.com/fantasyland-castle-holiday-t-shirt-for-girls-5007057391234M.html
+- fantasyland castle merriest place bracelet by little words project — https://www.disneystore.com/fantasyland-castle-merriest-place-bracelet-by-little-words-project-4300107860691M.html
+- fantasyland castle merry magical zip hoodie for adults — https://www.disneystore.com/fantasyland-castle-merry-magical-zip-hoodie-for-adults-5201106031288M.html
+- fantasyland winter castle t shirt for women — https://www.disneystore.com/fantasyland-winter-castle-t-shirt-for-women-5106106031413M.html
+- figment figment expressions gallery wrapped canvas by michelle st.laurent limited edition — https://www.disneystore.com/figment-figment-expressions-gallery-wrapped-canvas-by-michelle-st.laurent-limited-edition-470022625527.html
+- figment figment expressions gallery wrapped canvas by michelle st.laurent signed limited edition — https://www.disneystore.com/figment-figment-expressions-gallery-wrapped-canvas-by-michelle-st.laurent-signed-limited-edition-470022625459.html
+- figment figment stained glass gallery wrapped canvas by michelle st.laurent limited edition — https://www.disneystore.com/figment-figment-stained-glass-gallery-wrapped-canvas-by-michelle-st.laurent-limited-edition-470022626104.html
+- figment figment stained glass gallery wrapped canvas by michelle st.laurent signed limited edition — https://www.disneystore.com/figment-figment-stained-glass-gallery-wrapped-canvas-by-michelle-st.laurent-signed-limited-edition-470022626029.html
+- figment figments world tour volume 1 gallery wrapped canvas by eric doggett limited edition — https://www.disneystore.com/figment-figments-world-tour-volume-1-gallery-wrapped-canvas-by-eric-doggett-limited-edition-470022626517.html
+- figment figments world tour volume 1 gallery wrapped canvas by eric doggett signed limited edition — https://www.disneystore.com/figment-figments-world-tour-volume-1-gallery-wrapped-canvas-by-eric-doggett-signed-limited-edition-470022626449.html
+- figment just a little spark gallery wrapped canvas by tim rogerson limited edition — https://www.disneystore.com/figment-just-a-little-spark-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022625374.html
+- figment just a little spark gallery wrapped canvas by tim rogerson signed limited edition — https://www.disneystore.com/figment-just-a-little-spark-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022625299.html
+- figment one colorful spark gallery wrapped canvas by tim rogerson limited edition — https://www.disneystore.com/figment-one-colorful-spark-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022625114.html
+- figment one colorful spark gallery wrapped canvas by tim rogerson signed limited edition — https://www.disneystore.com/figment-one-colorful-spark-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022625039.html
+- figment one little spark gallery wrapped canvas by eric tan limited edition — https://www.disneystore.com/figment-one-little-spark-gallery-wrapped-canvas-by-eric-tan-limited-edition-470022626777.html
+- figment one little spark gallery wrapped canvas by eric tan signed limited edition — https://www.disneystore.com/figment-one-little-spark-gallery-wrapped-canvas-by-eric-tan-signed-limited-edition-470022626692.html
+- jack skellington stainless steel tumbler by corkcicle the nightmare before christmas — https://www.disneystore.com/jack-skellington-stainless-steel-tumbler-by-corkcicle-the-nightmare-before-christmas-810102848734.html
+- jessie and friends throw blanket toy story 5 — https://www.disneystore.com/jessie-and-friends-throw-blanket-toy-story-5-032281446420.html
+- jungle cruise the haunted mansion storybook journal — https://www.disneystore.com/jungle-cruise-the-haunted-mansion-storybook-journal-435391325737.html
+- lego spider man hero figure 76346 spider man brand new day — https://www.disneystore.com/lego-spider-man-hero-figure-76346-spider-man-brand-new-day-673419422772.html
+- lightning mcqueen stainless steel go cup xl with straw by corkcicle cars — https://www.disneystore.com/lightning-mcqueen-stainless-steel-go-cup-xl-with-straw-by-corkcicle-cars-810102848758.html
+- lilo stitch ohana musical figure by precious moments — https://www.disneystore.com/lilo-stitch-ohana-musical-figure-by-precious-moments-842181152099.html
+- maleficent deluxe costume for adults by disguise sleeping beauty — https://www.disneystore.com/maleficent-deluxe-costume-for-adults-by-disguise-sleeping-beauty-5500055630551M.html
+- marie holiday varsity jacket for women by spirit jersey the aristocats — https://www.disneystore.com/marie-holiday-varsity-jacket-for-women-by-spirit-jersey-the-aristocats-5103058381551M.html
+- marvel avengers bath set toys for tots donation item — https://www.disneystore.com/marvel-avengers-bath-set-toys-for-tots-donation-item-417132301798.html
+- marvel avengers doomsday a symbol logo t shirt customized — https://www.disneystore.com/marvel-avengers-doomsday-a-symbol-logo-t-shirt-customized-700000325SSCG.html
+- marvel avengers doomsday doctor doom long live latveria t shirt customized — https://www.disneystore.com/marvel-avengers-doomsday-doctor-doom-long-live-latveria-t-shirt-customized-700000324SSCG.html
+- marvel avengers doomsday doctor doom shattered multiverse t shirt customized — https://www.disneystore.com/marvel-avengers-doomsday-doctor-doom-shattered-multiverse-t-shirt-customized-700000323SSCG.html
+- mickey and minnie mouse congratulations figure by jim shore — https://www.disneystore.com/mickey-and-minnie-mouse-congratulations-figure-by-jim-shore-045544554305.html
+- mickey and minnie mouse gingerbread earring set by baublebar — https://www.disneystore.com/mickey-and-minnie-mouse-gingerbread-earring-set-by-baublebar-443002143304.html
+- mickey and minnie mouse holiday appetizer plate set — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-appetizer-plate-set-433101349004.html
+- mickey and minnie mouse holiday earring set by baublebar — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-earring-set-by-baublebar-443002143489.html
+- mickey and minnie mouse hug me gallery wrapped canvas by tim rogerson limited edition — https://www.disneystore.com/mickey-and-minnie-mouse-hug-me-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022624957.html
+- mickey and minnie mouse hug me gallery wrapped canvas by tim rogerson signed limited edition — https://www.disneystore.com/mickey-and-minnie-mouse-hug-me-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022624872.html
+- mickey and minnie mouse snowglobe charm by baublebar — https://www.disneystore.com/mickey-and-minnie-mouse-snowglobe-charm-by-baublebar-442052196933.html
+- mickey and minnie mouse tis the season bowl small — https://www.disneystore.com/mickey-and-minnie-mouse-tis-the-season-bowl-small-433101348922.html
+- mickey and minnie mouse warm wishes holiday tree skirt — https://www.disneystore.com/mickey-and-minnie-mouse-warm-wishes-holiday-tree-skirt-434081330358.html
+- mickey and minnie mouse winter wishes fold out greeting card disney parks — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-fold-out-greeting-card-disney-parks-435381325570.html
+- mickey and minnie mouse winter wishes holiday napkin set — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-napkin-set-434111328218.html
+- mickey and minnie mouse winter wishes holiday photo frame 4 x 6 — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-photo-frame-4-x-6-434081327891.html
+- mickey and minnie mouse winter wishes holiday placemat — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-placemat-434111328478.html
+- mickey and minnie mouse winter wishes holiday table runner — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-table-runner-434111328546.html
+- mickey and minnie mouse winter wishes light up house figure — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-light-up-house-figure-434081328393.html
+- mickey and minnie mouse winter wishes pillow — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-pillow-434111328058.html
+- mickey and minnie mouse winter wishes salt and pepper set — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-salt-and-pepper-set-433121348841.html
+- mickey and minnie mouse winter wishes throw blanket — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-throw-blanket-434111327976.html
+- mickey mouse and friends a magical day with friends journal by joey chou disney parks — https://www.disneystore.com/mickey-mouse-and-friends-a-magical-day-with-friends-journal-by-joey-chou-disney-parks-435391326567.html
+- mickey mouse and friends a magical day with friends mug by joey chou — https://www.disneystore.com/mickey-mouse-and-friends-a-magical-day-with-friends-mug-by-joey-chou-433111355927.html
+- mickey mouse and friends holiday pullover hoodie for adults — https://www.disneystore.com/mickey-mouse-and-friends-holiday-pullover-hoodie-for-adults-5201056301358M.html
+- mickey mouse and friends super 8 journal by darren wilson — https://www.disneystore.com/mickey-mouse-and-friends-super-8-journal-by-darren-wilson-435391326642.html
+- mickey mouse and friends super 8 mug by darren wilson — https://www.disneystore.com/mickey-mouse-and-friends-super-8-mug-by-darren-wilson-433111356009.html
+- mickey mouse and friends tea time journal by scooter mad tea party — https://www.disneystore.com/mickey-mouse-and-friends-tea-time-journal-by-scooter-mad-tea-party-435391326499.html
+- mickey mouse and friends tea time mug by scooter mad tea party — https://www.disneystore.com/mickey-mouse-and-friends-tea-time-mug-by-scooter-mad-tea-party-433111355842.html
+- mickey mouse and friends the sensational six gallery wrapped canvas by tim rogerson limited edition — https://www.disneystore.com/mickey-mouse-and-friends-the-sensational-six-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022624797.html
+- mickey mouse and friends the sensational six gallery wrapped canvas by tim rogerson signed limited edition — https://www.disneystore.com/mickey-mouse-and-friends-the-sensational-six-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022624612.html
+- mickey mouse cuddleez plush large 23 toys for tots donation item — https://www.disneystore.com/mickey-mouse-cuddleez-plush-large-23-toys-for-tots-donation-item-415162300965.html
+- mickey mouse disney parks charm necklace — https://www.disneystore.com/mickey-mouse-disney-parks-charm-necklace-443001684860.html
+- mickey mouse ear faux shearling beanie disneyland green — https://www.disneystore.com/mickey-mouse-ear-faux-shearling-beanie-disneyland-green-445051152719.html
+- mickey mouse ear faux shearling beanie walt disney world green — https://www.disneystore.com/mickey-mouse-ear-faux-shearling-beanie-walt-disney-world-green-445031152487.html
+- mickey mouse ear faux shearling bucket hat for adults black cherry — https://www.disneystore.com/mickey-mouse-ear-faux-shearling-bucket-hat-for-adults-black-cherry-445051153051.html
+- mickey mouse ear faux shearling bucket hat for adults cream — https://www.disneystore.com/mickey-mouse-ear-faux-shearling-bucket-hat-for-adults-cream-445051152559.html
+- mickey mouse ear muffs for adults — https://www.disneystore.com/mickey-mouse-ear-muffs-for-adults-445051420108.html
+- mickey mouse gingerbread cookie beanie for adults — https://www.disneystore.com/mickey-mouse-gingerbread-cookie-beanie-for-adults-445051152306.html
+- mickey mouse halloween button down shirt for adults — https://www.disneystore.com/mickey-mouse-halloween-button-down-shirt-for-adults-5207107691132M.html
+- mickey mouse halloween hockey jersey for adults — https://www.disneystore.com/mickey-mouse-halloween-hockey-jersey-for-adults-5205106031131M.html
+- mickey mouse holiday fashion t shirt for adults — https://www.disneystore.com/mickey-mouse-holiday-fashion-t-shirt-for-adults-5205056301363M.html
+- mickey mouse icon and fantasyland castle holiday puffer vest for women — https://www.disneystore.com/mickey-mouse-icon-and-fantasyland-castle-holiday-puffer-vest-for-women-5103107691430M.html
+- mickey mouse icon diamond gold ring by rebecca hook — https://www.disneystore.com/mickey-mouse-icon-diamond-gold-ring-by-rebecca-hook-7002057285698M.html
+- mickey mouse icon diamond hoop gold earrings by rebecca hook — https://www.disneystore.com/mickey-mouse-icon-diamond-hoop-gold-earrings-by-rebecca-hook-470022450457.html
+- mickey mouse icon diamond ring by rebecca hook white gold — https://www.disneystore.com/mickey-mouse-icon-diamond-ring-by-rebecca-hook-white-gold-7002057285700M.html
+- mickey mouse icon diamond ring by rebecca hook yellow gold — https://www.disneystore.com/mickey-mouse-icon-diamond-ring-by-rebecca-hook-yellow-gold-7002057285699M.html
+- mickey mouse icon disney parks fireworks murano charm by pandora — https://www.disneystore.com/mickey-mouse-icon-disney-parks-fireworks-murano-charm-by-pandora-443052166995.html
+- mickey mouse icon gold pretzel charm by pandora — https://www.disneystore.com/mickey-mouse-icon-gold-pretzel-charm-by-pandora-443052167152.html
+- mickey mouse icon holiday 33 oz. stainless steel travel cup with straw — https://www.disneystore.com/mickey-mouse-icon-holiday-33-oz.-stainless-steel-travel-cup-with-straw-433111504769.html
+- mickey mouse icon holiday sequined skirt for girls — https://www.disneystore.com/mickey-mouse-icon-holiday-sequined-skirt-for-girls-5001057391235M.html
+- mickey mouse icon merry magical sweatshirt for women — https://www.disneystore.com/mickey-mouse-icon-merry-magical-sweatshirt-for-women-5102106031414M.html
+- mickey mouse icon winter wishes glass — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-glass-433111348769.html
+- mickey mouse icon winter wishes holiday stocking — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-holiday-stocking-434081328133.html
+- mickey mouse icon winter wishes stem glass — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-stem-glass-433111348684.html
+- mickey mouse icon wreath and fantasyland castle t shirt for women disney parks — https://www.disneystore.com/mickey-mouse-icon-wreath-and-fantasyland-castle-t-shirt-for-women-disney-parks-5106057431451M.html
+- mickey mouse icon wreath happy holidays spirit jersey for adults — https://www.disneystore.com/mickey-mouse-icon-wreath-happy-holidays-spirit-jersey-for-adults-5108058381410M.html
+- mickey mouse icon wreath holiday baseball cap for adults disneyland — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-baseball-cap-for-adults-disneyland-445001421193.html
+- mickey mouse icon wreath holiday baseball cap for adults walt disney world — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-baseball-cap-for-adults-walt-disney-world-445001151311.html
+- mickey mouse icon wreath holiday faux shearling jacket for women — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-faux-shearling-jacket-for-women-5103106031412M.html
+- mickey mouse icon wreath holiday sleep set for women — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-sleep-set-for-women-5104107671411M.html
+- mickey mouse jack o lantern treat bucket — https://www.disneystore.com/mickey-mouse-jack-o-lantern-treat-bucket-434080860191.html
+- mickey mouse pj pals for kids — https://www.disneystore.com/mickey-mouse-pj-pals-for-kids-2405057390912M.html
+- mickey mouse snow figure plush mini 6 — https://www.disneystore.com/mickey-mouse-snow-figure-plush-mini-6-415161438690.html
+- mickey mouse snowmen and gingerbread house bag charm by baublebar — https://www.disneystore.com/mickey-mouse-snowmen-and-gingerbread-house-bag-charm-by-baublebar-442052196858.html
+- mickey mouse star mug — https://www.disneystore.com/mickey-mouse-star-mug-433111350892.html
+- mickey mouse woven faux leather loungefly mini backpack blue — https://www.disneystore.com/mickey-mouse-woven-faux-leather-loungefly-mini-backpack-blue-442091473651.html
+- minnie mouse and daisy duck jibbitz set by crocs — https://www.disneystore.com/minnie-mouse-and-daisy-duck-jibbitz-set-by-crocs-442021623804.html
+- minnie mouse ear beanie and gloves set for toddlers — https://www.disneystore.com/minnie-mouse-ear-beanie-and-gloves-set-for-toddlers-445071209745.html
+- minnie mouse faux shearling ear headband with corduroy bow for adults — https://www.disneystore.com/minnie-mouse-faux-shearling-ear-headband-with-corduroy-bow-for-adults-445031151640.html
+- minnie mouse gingerbread house ear headband for adults by baublebar — https://www.disneystore.com/minnie-mouse-gingerbread-house-ear-headband-for-adults-by-baublebar-445032022024.html
+- minnie mouse holiday ear headband pink peppermint — https://www.disneystore.com/minnie-mouse-holiday-ear-headband-pink-peppermint-445021686435.html
+- minnie mouse holiday tree ear headband for adults by baublebar — https://www.disneystore.com/minnie-mouse-holiday-tree-ear-headband-for-adults-by-baublebar-445032022109.html
+- minnie mouse plush red mini bean bag 8 14 toys for tots donation item — https://www.disneystore.com/minnie-mouse-plush-red-mini-bean-bag-8-14-toys-for-tots-donation-item-415152300623.html
+- minnie mouse reindeer ear headband for adults by baublebar — https://www.disneystore.com/minnie-mouse-reindeer-ear-headband-for-adults-by-baublebar-445032021867.html
+- minnie mouse snow figure plush mini 6 — https://www.disneystore.com/minnie-mouse-snow-figure-plush-mini-6-415161438775.html
+- minnie mouse snowflake ear headband for adults by baublebar — https://www.disneystore.com/minnie-mouse-snowflake-ear-headband-for-adults-by-baublebar-445032022284.html
+- minnie mouse two faced mug — https://www.disneystore.com/minnie-mouse-two-faced-mug-433111350977.html
+- moana urupocha chan plush mini 4 34 disney store japan toys for tots donation item — https://www.disneystore.com/moana-urupocha-chan-plush-mini-4-34-disney-store-japan-toys-for-tots-donation-item-415162300705.html
+- olaf mug frozen — https://www.disneystore.com/olaf-mug-frozen-433111351479.html
+- orange bird jumpin juice gallery wrapped canvas by dom corona limited edition — https://www.disneystore.com/orange-bird-jumpin-juice-gallery-wrapped-canvas-by-dom-corona-limited-edition-470022626364.html
+- orange bird jumpin juice gallery wrapped canvas by dom corona signed limited edition — https://www.disneystore.com/orange-bird-jumpin-juice-gallery-wrapped-canvas-by-dom-corona-signed-limited-edition-470022626289.html
+- orange bird orange bird castle gallery wrapped canvas by michelle st.laurent limited edition — https://www.disneystore.com/orange-bird-orange-bird-castle-gallery-wrapped-canvas-by-michelle-st.laurent-limited-edition-470022625787.html
+- orange bird orange bird castle gallery wrapped canvas by michelle st.laurent signed limited edition — https://www.disneystore.com/orange-bird-orange-bird-castle-gallery-wrapped-canvas-by-michelle-st.laurent-signed-limited-edition-470022625602.html
+- orange bird orange bird stained glass gallery wrapped canvas by michelle st.laurent limited edition — https://www.disneystore.com/orange-bird-orange-bird-stained-glass-gallery-wrapped-canvas-by-michelle-st.laurent-limited-edition-470022625947.html
+- orange bird orange bird stained glass gallery wrapped canvas by michelle st.laurent signed limited edition — https://www.disneystore.com/orange-bird-orange-bird-stained-glass-gallery-wrapped-canvas-by-michelle-st.laurent-signed-limited-edition-470022625862.html
+- orange bird orange paints orange gallery wrapped canvas by tim rogerson limited edition — https://www.disneystore.com/orange-bird-orange-paints-orange-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022624537.html
+- orange bird orange paints orange gallery wrapped canvas by tim rogerson signed limited edition — https://www.disneystore.com/orange-bird-orange-paints-orange-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022624469.html
+- orange bird the original orange bird gallery wrapped canvas by eric tan limited edition — https://www.disneystore.com/orange-bird-the-original-orange-bird-gallery-wrapped-canvas-by-eric-tan-limited-edition-470022626852.html
+- predator badlands dek with sword and movie logo t shirt customized — https://www.disneystore.com/predator-badlands-dek-with-sword-and-movie-logo-t-shirt-customized-700000327SSCG.html
+- predator mask stamp distressed 80s retro style t shirt customized — https://www.disneystore.com/predator-mask-stamp-distressed-80s-retro-style-t-shirt-customized-700000326SSCG.html
+- pua sculpted mug moana — https://www.disneystore.com/pua-sculpted-mug-moana-433111351707.html
+- rapunzel disney once upon a story mini doll playset tangled 5 toys for tots donation item — https://www.disneystore.com/rapunzel-disney-once-upon-a-story-mini-doll-playset-tangled-5-toys-for-tots-donation-item-416122301381.html
+- rapunzel sculpted mug tangled — https://www.disneystore.com/rapunzel-sculpted-mug-tangled-433111351547.html
+- rapunzel stainless steel cruiser cup with straw by corkcicle tangled — https://www.disneystore.com/rapunzel-stainless-steel-cruiser-cup-with-straw-by-corkcicle-tangled-850079694545.html
+- santa mickey mouse holiday knit pullover for kids — https://www.disneystore.com/santa-mickey-mouse-holiday-knit-pullover-for-kids-2413108220862M.html
+- santa minnie mouse holiday knit cardigan for kids — https://www.disneystore.com/santa-minnie-mouse-holiday-knit-cardigan-for-kids-5004108221230M.html
+- simba sculpted mug the lion king — https://www.disneystore.com/simba-sculpted-mug-the-lion-king-433111351882.html
+- snow white and the seven dwarfs sleeping beauty storybook journal — https://www.disneystore.com/snow-white-and-the-seven-dwarfs-sleeping-beauty-storybook-journal-435391325652.html
+- stitch plush lilo stitch medium 15 34 toys for tots donation item — https://www.disneystore.com/stitch-plush-lilo-stitch-medium-15-34-toys-for-tots-donation-item-415152300548.html
+- stitch sculpted mug lilo stitch — https://www.disneystore.com/stitch-sculpted-mug-lilo-stitch-433111351967.html
+- stitch two faced mug lilo stitch — https://www.disneystore.com/stitch-two-faced-mug-lilo-stitch-433111351059.html
+- the lion king mug — https://www.disneystore.com/the-lion-king-mug-433111351134.html
+- the mandalorian and grogu plush keychain mystery figure by cosbi star wars — https://www.disneystore.com/the-mandalorian-and-grogu-plush-keychain-mystery-figure-by-cosbi-star-wars-436000874134.html
+- the mandalorian talking action figure 13 star wars the mandalorian toys for tots donation item — https://www.disneystore.com/the-mandalorian-talking-action-figure-13-star-wars-the-mandalorian-toys-for-tots-donation-item-417132301460.html
+- the muppet christmas carol pullover sweatshirt for adults by spirit jersey — https://www.disneystore.com/the-muppet-christmas-carol-pullover-sweatshirt-for-adults-by-spirit-jersey-5102058381597M.html
+- tiana plush doll the princess and the frog  14 12 toys for tots donation item — https://www.disneystore.com/tiana-plush-doll-the-princess-and-the-frog--14-12-toys-for-tots-donation-item-415162301047.html
+- tinker bell classic doll peter pan 10 toys for tots donation item — https://www.disneystore.com/tinker-bell-classic-doll-peter-pan-10-toys-for-tots-donation-item-416122301206.html
+- toy story 5 sheriff and space ranger badge set by mattel toys for tots donation item — https://www.disneystore.com/toy-story-5-sheriff-and-space-ranger-badge-set-by-mattel-toys-for-tots-donation-item-417142301610.html
+- up holiday long sleeve t shirt by spirit jersey — https://www.disneystore.com/up-holiday-long-sleeve-t-shirt-by-spirit-jersey-5106058381568M.html
+- walt disney world holiday pullover sweatshirt for adults — https://www.disneystore.com/walt-disney-world-holiday-pullover-sweatshirt-for-adults-5102057431448M.html
+- walt disney world logo holiday zip hoodie for adults navy — https://www.disneystore.com/walt-disney-world-logo-holiday-zip-hoodie-for-adults-navy-5201057431297M.html
+- winnie the pooh and pals mad beauty cosmetic sheet mask collection — https://www.disneystore.com/winnie-the-pooh-and-pals-mad-beauty-cosmetic-sheet-mask-collection-442002382065.html
+- winnie the pooh and pals mad beauty hand care collection — https://www.disneystore.com/winnie-the-pooh-and-pals-mad-beauty-hand-care-collection-442002381723.html
+- winnie the pooh and pals mad beauty hand cream collection — https://www.disneystore.com/winnie-the-pooh-and-pals-mad-beauty-hand-cream-collection-442002381808.html
+- winnie the pooh and pals pullover sweatshirt for adults — https://www.disneystore.com/winnie-the-pooh-and-pals-pullover-sweatshirt-for-adults-5201106031268M.html
+- winnie the pooh holiday charm by pandora — https://www.disneystore.com/winnie-the-pooh-holiday-charm-by-pandora-443052168227.html
+- winnie the pooh mad beauty body butter — https://www.disneystore.com/winnie-the-pooh-mad-beauty-body-butter-442002381563.html
+- winnie the pooh mad beauty cosmetic bag — https://www.disneystore.com/winnie-the-pooh-mad-beauty-cosmetic-bag-442002381648.html
+- winnie the pooh mad beauty lip balm collection — https://www.disneystore.com/winnie-the-pooh-mad-beauty-lip-balm-collection-442002381983.html
 
 ## Price changes (New Arrivals items) (0)
 - none
@@ -18,9 +189,15 @@ New Arrivals grid: 494 items scanned (site says 494) · Featured/Coming Soon pag
 ## Stock changes (New Arrivals items) (0)
 - none
 
-## Rotated off the New Arrivals page (0)
-- none
+## Rotated off the New Arrivals page (1)
+- The Muppet Christmas Carol Long Sleeve T-Shirt for Adults — https://www.disneystore.com/the-muppet-christmas-carol-long-sleeve-t-shirt-for-adults-5205058381372M.html
 
-## Removed from the catalog sitemap (0)
-- none
+## Removed from the catalog sitemap (7)
+- 101 dalmatians watch by citizen exclusive — https://www.disneystore.com/101-dalmatians-watch-by-citizen-exclusive-013205177286.html
+- buzz lightyear costume for baby toy story — https://www.disneystore.com/buzz-lightyear-costume-for-baby-toy-story-2845041619038M.html
+- marie toulouse and berlioz paws at play figure by jim shore the aristocats — https://www.disneystore.com/marie-toulouse-and-berlioz-paws-at-play-figure-by-jim-shore-the-aristocats-028399427499.html
+- mickey and minnie mouse halloween cord bracelet set — https://www.disneystore.com/mickey-and-minnie-mouse-halloween-cord-bracelet-set-443042066588.html
+- mickey mouse disney parks pin trading sling bag — https://www.disneystore.com/mickey-mouse-disney-parks-pin-trading-sling-bag-438051011803.html
+- mickey mouse mummy halloween glow in the dark back to front t shirt for women — https://www.disneystore.com/mickey-mouse-mummy-halloween-glow-in-the-dark-back-to-front-t-shirt-for-women-5106056301332M.html
+- the haunted mansion coffin serving board by picnic time — https://www.disneystore.com/the-haunted-mansion-coffin-serving-board-by-picnic-time-099967571272.html
 
