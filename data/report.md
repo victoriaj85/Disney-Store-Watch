@@ -1,13 +1,193 @@
-CHANGES: 0 new arrivals · 0 featured · 0 other catalog adds · 0 price · 0 stock
-# Disney Store watch — 2026-11-02T06:09:53.135Z
+CHANGES: 162 new arrivals · 20 featured · 0 other catalog adds · 0 price · 0 stock
+# Disney Store watch — 2026-11-02T09:13:29.766Z
 
-New Arrivals grid: 336 items scanned (site says 336) · Featured/Coming Soon page: 19 · Catalog sitemap: 4694 products
+New Arrivals grid: 494 items scanned (site says 494) · Featured/Coming Soon page: 20 · Catalog sitemap: 4688 products
 
-## NEW on the New Arrivals page (0)
-- none
+## NEW on the New Arrivals page (162)
+- Mickey Mouse and Friends ''Super 8'' Mug by Darren Wilson — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-super-8-mug-by-darren-wilson-433111356009.html
+- Winnie the Pooh Mad Beauty Lip Balm Collection — $13.95 — Winnie the Pooh — online - in_stock — https://www.disneystore.com/winnie-the-pooh-mad-beauty-lip-balm-collection-442002381983.html
+- Fantasyland Winter Castle T-Shirt for Women — $36.99 — T-Shirts — online - in_stock — https://www.disneystore.com/fantasyland-winter-castle-t-shirt-for-women-5106106031413M.html
+- Eeyore Floral Mug – Winnie the Pooh — $16.99 — Eeyore — online - in_stock — https://www.disneystore.com/eeyore-floral-mug-winnie-the-pooh-433111351394.html
+- Dumbo 85th Anniversary Pullover Sweatshirt for Adults — $59.99 — Dumbo — online - in_stock — https://www.disneystore.com/dumbo-85th-anniversary-pullover-sweatshirt-for-adults-5201107691226M.html
+- Mickey Mouse and Friends ''Super 8'' Journal by Darren Wilson — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-super-8-journal-by-darren-wilson-435391326642.html
+- Mickey Mouse Snow Figure Plush – Mini 6'' — $16.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-snow-figure-plush-mini-6-415161438690.html
+- Winnie the Pooh and Pals Mad Beauty Hand Care Collection — $19.95 — Winnie the Pooh — online - in_stock — https://www.disneystore.com/winnie-the-pooh-and-pals-mad-beauty-hand-care-collection-442002381723.html
+- Olaf Mug – Frozen — $16.99 — Olaf — online - in_stock — https://www.disneystore.com/olaf-mug-frozen-433111351479.html
+- Mickey Mouse Icon Gold Pretzel Charm by Pandora — $110.00 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-gold-pretzel-charm-by-pandora-443052167152.html
+- Jungle Cruise & The Haunted Mansion Storybook Journal — $24.99 — Desk & Stationery — online - in_stock — https://www.disneystore.com/jungle-cruise-the-haunted-mansion-storybook-journal-435391325737.html
+- Mickey and Minnie Mouse Gingerbread Earring Set by BaubleBar — $68.00 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-gingerbread-earring-set-by-baublebar-443002143304.html
+- Eeyore Pullover Sweatshirt for Adults – Winnie the Pooh — $59.99 — Eeyore — online - in_stock — https://www.disneystore.com/eeyore-pullover-sweatshirt-for-adults-winnie-the-pooh-5201106031269M.html
+- Tinker Bell Classic Doll – Peter Pan – 10'' – Toys for Tots Donation Item — $19.99 [Toys for Tots] — Tinker Bell — online - in_stock — https://www.disneystore.com/tinker-bell-classic-doll-peter-pan-10-toys-for-tots-donation-item-416122301206.html
+- Mickey Mouse Cuddleez Plush – Large 23'' – Toys for Tots Donation Item — $34.99 [Toys for Tots] — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-cuddleez-plush-large-23-toys-for-tots-donation-item-415162300965.html
+- Mickey Mouse PJ PALS for Kids — $26.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-pj-pals-for-kids-2405057390912M.html
+- Winnie the Pooh Holiday Charm by Pandora — $100.00 — Winnie the Pooh — online - in_stock — https://www.disneystore.com/winnie-the-pooh-holiday-charm-by-pandora-443052168227.html
+- Minnie Mouse Snow Figure Plush – Mini 6'' — $16.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-snow-figure-plush-mini-6-415161438775.html
+- The Lion King Mug — $16.99 — Mugs — online - in_stock — https://www.disneystore.com/the-lion-king-mug-433111351134.html
+- Santa Mickey Mouse Holiday Knit Pullover for Kids — $54.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/santa-mickey-mouse-holiday-knit-pullover-for-kids-2413108220862M.html
+- Rapunzel Disney Once Upon a Story Mini Doll Playset – Tangled – 5'' – Toys for Tots Donation Item — $39.99 [Toys for Tots] — Rapunzel.Disney Princess — online - in_stock — https://www.disneystore.com/rapunzel-disney-once-upon-a-story-mini-doll-playset-tangled-5-toys-for-tots-donation-item-416122301381.html
+- Mickey Mouse Ear Faux Shearling Beanie – Walt Disney World – Green — $34.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-ear-faux-shearling-beanie-walt-disney-world-green-445031152487.html
+- Mickey Mouse Icon and Fantasyland Castle Holiday Puffer Vest for Women — $69.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-and-fantasyland-castle-holiday-puffer-vest-for-women-5103107691430M.html
+- Mickey Mouse Ear Faux Shearling Bucket Hat for Adults – Black Cherry — $34.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-ear-faux-shearling-bucket-hat-for-adults-black-cherry-445051153051.html
+- Mickey Mouse and Friends ''Tea Time'' Journal by Scooter – Mad Tea Party — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-tea-time-journal-by-scooter-mad-tea-party-435391326499.html
+- Santa Minnie Mouse Holiday Knit Cardigan for Kids — $54.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/santa-minnie-mouse-holiday-knit-cardigan-for-kids-5004108221230M.html
+- Mickey and Minnie Mouse Snowglobe Charm by BaubleBar — $48.00 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-snowglobe-charm-by-baublebar-442052196933.html
+- Stitch Sculpted Mug – Lilo & Stitch — $24.99 — Stitch — online - in_stock — https://www.disneystore.com/stitch-sculpted-mug-lilo-stitch-433111351967.html
+- Fantasyland Castle Holiday T-Shirt for Girls — $26.99 — T-Shirts & Tops — online - in_stock — https://www.disneystore.com/fantasyland-castle-holiday-t-shirt-for-girls-5007057391234M.html
+- Big Hero 6 Figure Set – Toys for Tots Donation Item — $39.99 [Toys for Tots] — Baymax — online - in_stock — https://www.disneystore.com/big-hero-6-figure-set-toys-for-tots-donation-item-417132301538.html
+- Winnie the Pooh Mad Beauty Cosmetic Bag — $19.95 — Winnie the Pooh — online - in_stock — https://www.disneystore.com/winnie-the-pooh-mad-beauty-cosmetic-bag-442002381648.html
+- Minnie Mouse Two Faced Mug — $16.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-two-faced-mug-433111350977.html
+- Minnie Mouse Holiday Tree Ear Headband for Adults by BaubleBar — $49.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-holiday-tree-ear-headband-for-adults-by-baublebar-445032022109.html
+- Mickey Mouse and Friends ''Tea Time'' Mug by Scooter – Mad Tea Party — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-tea-time-mug-by-scooter-mad-tea-party-433111355842.html
+- Mickey Mouse Icon Wreath Holiday Sleep Set for Women — $69.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-sleep-set-for-women-5104107671411M.html
+- Disneyland Logo Knit Beanie Cap for Adults — $32.99 — Hats, Gloves & Scarves — online - in_stock — https://www.disneystore.com/disneyland-logo-knit-beanie-cap-for-adults-445051152979.html
+- Mickey Mouse Snowmen and Gingerbread House Bag Charm by BaubleBar — $48.00 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-snowmen-and-gingerbread-house-bag-charm-by-baublebar-442052196858.html
+- Winnie the Pooh and Pals Mad Beauty Cosmetic Sheet Mask Collection — $20.95 — Winnie the Pooh — online - in_stock — https://www.disneystore.com/winnie-the-pooh-and-pals-mad-beauty-cosmetic-sheet-mask-collection-442002382065.html
+- Winnie the Pooh Mad Beauty Body Butter — $14.95 — Winnie the Pooh — online - in_stock — https://www.disneystore.com/winnie-the-pooh-mad-beauty-body-butter-442002381563.html
+- Mickey Mouse Icon Holiday Sequined Skirt for Girls — $34.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-holiday-sequined-skirt-for-girls-5001057391235M.html
+- Mickey Mouse and Friends ''A Magical Day with Friends'' Mug by Joey Chou — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-a-magical-day-with-friends-mug-by-joey-chou-433111355927.html
+- Tiana Plush Doll – The Princess and the Frog  – 14 1/2'' – Toys for Tots Donation Item — $29.99 [Toys for Tots] — Tiana.Disney Princess — online - in_stock — https://www.disneystore.com/tiana-plush-doll-the-princess-and-the-frog--14-12-toys-for-tots-donation-item-415162301047.html
+- Mickey Mouse Icon Disney Parks Fireworks Murano Charm by Pandora — $85.00 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-disney-parks-fireworks-murano-charm-by-pandora-443052166995.html
+- Chip 'n Dale Figural Holiday Bag Charm by BaubleBar — $38.00 — Chip 'n Dale — online - in_stock — https://www.disneystore.com/chip-n-dale-figural-holiday-bag-charm-by-baublebar-442052196773.html
+- Moana Urupocha-Chan Plush – Mini 4 3/4'' – Disney Store Japan – Toys for Tots Donation Item — $16.99 [Toys for Tots] — Moana.Disney Princess — online - in_stock — https://www.disneystore.com/moana-urupocha-chan-plush-mini-4-34-disney-store-japan-toys-for-tots-donation-item-415162300705.html
+- Mickey Mouse and Friends ''A Magical Day with Friends'' Journal by Joey Chou – Disney Parks — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-a-magical-day-with-friends-journal-by-joey-chou-disney-parks-435391326567.html
+- Mickey Mouse Ear Faux Shearling Beanie – Disneyland – Green — $32.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-ear-faux-shearling-beanie-disneyland-green-445051152719.html
+- Stitch Plush – Lilo & Stitch – Medium 15 3/4'' – Toys for Tots Donation Item — $29.99 [Toys for Tots] — Stitch — online - in_stock — https://www.disneystore.com/stitch-plush-lilo-stitch-medium-15-34-toys-for-tots-donation-item-415152300548.html
+- Disney Logo Holiday Zip Hoodie for Adults – Navy — $84.99 — Jackets & Sweaters — online - in_stock — https://www.disneystore.com/disney-logo-holiday-zip-hoodie-for-adults-navy-5201057431295M.html
+- Rapunzel Sculpted Mug – Tangled — $24.99 — Rapunzel.Disney Princess — online - in_stock — https://www.disneystore.com/rapunzel-sculpted-mug-tangled-433111351547.html
+- Mickey and Minnie Mouse Holiday Appetizer Plate Set — $39.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-appetizer-plate-set-433101349004.html
+- Mickey Mouse Disney Parks Charm Necklace — $29.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-disney-parks-charm-necklace-443001684860.html
+- Pua Sculpted Mug – Moana — $24.99 — Moana.Disney Princess — online - in_stock — https://www.disneystore.com/pua-sculpted-mug-moana-433111351707.html
+- Minnie Mouse and Daisy Duck Jibbitz Set by Crocs — $21.99 — Minnie Mouse.Daisy Duck — online - in_stock — https://www.disneystore.com/minnie-mouse-and-daisy-duck-jibbitz-set-by-crocs-442021623804.html
+- Donald Duck Plush – 7'' – Toys for Tots Donation Item — $24.99 [Toys for Tots] — Donald Duck — online - in_stock — https://www.disneystore.com/donald-duck-plush-7-toys-for-tots-donation-item-415152300883.html
+- Winnie the Pooh and Pals Pullover Sweatshirt for Adults — $59.99 — Winnie the Pooh — online - in_stock — https://www.disneystore.com/winnie-the-pooh-and-pals-pullover-sweatshirt-for-adults-5201106031268M.html
+- Disney Park Snacks Charm Necklace — $29.99 — Jewelry & Watches — online - in_stock — https://www.disneystore.com/disney-park-snacks-charm-necklace-443001684785.html
+- Marvel Avengers Bath Set – Toys for Tots Donation Item — $29.99 [Toys for Tots] — Bath Toys — online - in_stock — https://www.disneystore.com/marvel-avengers-bath-set-toys-for-tots-donation-item-417132301798.html
+- Walt Disney World Logo Holiday Zip Hoodie for Adults – Navy — $84.99 — Jackets & Sweaters — online - in_stock — https://www.disneystore.com/walt-disney-world-logo-holiday-zip-hoodie-for-adults-navy-5201057431297M.html
+- Belle's Books Sculpted Mug – Beauty and the Beast — $24.99 — Belle.Disney Princess — online - in_stock — https://www.disneystore.com/belles-books-sculpted-mug-beauty-and-the-beast-433111351622.html
+- Toy Story 5 Sheriff and Space Ranger Badge Set by Mattel – Toys for Tots Donation Item — $12.99 [Toys for Tots] — Play Sets — online - in_stock — https://www.disneystore.com/toy-story-5-sheriff-and-space-ranger-badge-set-by-mattel-toys-for-tots-donation-item-417142301610.html
+- Mickey Mouse Ear Muffs for Adults — $36.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-ear-muffs-for-adults-445051420108.html
+- Minnie Mouse Ear Beanie and Gloves Set for Toddlers — $22.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-ear-beanie-and-gloves-set-for-toddlers-445071209745.html
+- Constance Hatchaway ''Constance: The Bride'' Mug by Jasmine Becket-Griffith – The Haunted Mansion — $19.99 — Mugs — online - in_stock — https://www.disneystore.com/constance-hatchaway-constance-the-bride-mug-by-jasmine-becket-griffith-the-haunted-mansion-433111356184.html
+- Fantasyland Castle ''Merriest Place'' Bracelet by Little Words Project — $32.00 — Jewelry & Watches — online - in_stock — https://www.disneystore.com/fantasyland-castle-merriest-place-bracelet-by-little-words-project-4300107860691M.html
+- Mickey and Minnie Mouse Holiday Earring Set by BaubleBar — $68.00 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-earring-set-by-baublebar-443002143489.html
+- Fantasyland Castle ''Holiday Magic'' Bag Charm by Little Words Project — $35.00 — Keychains & Bag Charms — online - in_stock — https://www.disneystore.com/fantasyland-castle-holiday-magic-bag-charm-by-little-words-project-443002021787.html
+- Simba Sculpted Mug – The Lion King — $24.99 — Simba — online - in_stock — https://www.disneystore.com/simba-sculpted-mug-the-lion-king-433111351882.html
+- Ariel Singing Doll – The Little Mermaid – 11'' – Toys for Tots Donation Item — $29.99 [Toys for Tots] — Ariel.Disney Princess — online - in_stock — https://www.disneystore.com/ariel-singing-doll-the-little-mermaid-11-toys-for-tots-donation-item-416122301121.html
+- Winnie the Pooh and Pals Mad Beauty Hand Cream Collection — $17.95 — Winnie the Pooh — online - in_stock — https://www.disneystore.com/winnie-the-pooh-and-pals-mad-beauty-hand-cream-collection-442002381808.html
+- Disneyland Logo Holiday Zip Hoodie for Adults – Navy — $84.99 — Jackets & Sweaters — online - in_stock — https://www.disneystore.com/disneyland-logo-holiday-zip-hoodie-for-adults-navy-5201057431296M.html
+- Constance Hatchaway ''Constance: The Bride'' Journal by Jasmine Becket-Griffith – The Haunted Mansion — $19.99 — Desk & Stationery — online - in_stock — https://www.disneystore.com/constance-hatchaway-constance-the-bride-journal-by-jasmine-becket-griffith-the-haunted-mansion-435391326727.html
+- The Mandalorian Talking Action Figure – 13'' – Star Wars: The Mandalorian – Toys for Tots Donation Item — $37.99 [Toys for Tots] — The Mandalorian — online - in_stock — https://www.disneystore.com/the-mandalorian-talking-action-figure-13-star-wars-the-mandalorian-toys-for-tots-donation-item-417132301460.html
+- Mickey Mouse Star Mug — $16.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-star-mug-433111350892.html
+- Cars PJ PALS for Boys — $26.99 — Lightning McQueen — online - in_stock — https://www.disneystore.com/cars-pj-pals-for-boys-2405057390905M.html
+- Fantasyland Castle and Fireworks Ring Set by Pandora — $230.00 — Jewelry & Watches — online - in_stock — https://www.disneystore.com/fantasyland-castle-and-fireworks-ring-set-by-pandora-4305107850700M.html
+- Fantasyland Castle Holiday Mug — $19.99 — Mugs — online - in_stock — https://www.disneystore.com/fantasyland-castle-holiday-mug-433111504844.html
+- Dumbo Mug — $16.99 — Dumbo — online - in_stock — https://www.disneystore.com/dumbo-mug-433111351219.html
+- Mickey Mouse Woven Faux Leather Loungefly Mini Backpack – Blue — $80.00 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-woven-faux-leather-loungefly-mini-backpack-blue-442091473651.html
+- Stitch Two Faced Mug – Lilo & Stitch — $16.99 — Stitch — online - in_stock — https://www.disneystore.com/stitch-two-faced-mug-lilo-stitch-433111351059.html
+- Fantasyland Castle ''Merry & Magical'' Zip Hoodie for Adults — $69.99 — Jackets & Sweaters — online - in_stock — https://www.disneystore.com/fantasyland-castle-merry-magical-zip-hoodie-for-adults-5201106031288M.html
+- Minnie Mouse Plush – Red – Mini Bean Bag 8 1/4'' – Toys for Tots Donation Item — $14.99 [Toys for Tots] — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-plush-red-mini-bean-bag-8-14-toys-for-tots-donation-item-415152300623.html
+- Minnie Mouse Gingerbread House Ear Headband for Adults by BaubleBar — $49.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-gingerbread-house-ear-headband-for-adults-by-baublebar-445032022024.html
+- Mickey Mouse Icon Winter Wishes Stem Glass — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-stem-glass-433111348684.html
+- Mickey and Minnie Mouse Winter Wishes Holiday Photo Frame – 4'' x 6'' — $29.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-photo-frame-4-x-6-434081327891.html
+- Mickey and Minnie Mouse Winter Wishes Throw Blanket — $84.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-throw-blanket-434111327976.html
+- Mickey and Minnie Mouse Winter Wishes Light-Up House Figure — $34.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-light-up-house-figure-434081328393.html
+- Mickey Mouse Icon ''Merry & Magical'' Sweatshirt for Women — $59.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-merry-magical-sweatshirt-for-women-5102106031414M.html
+- Chip 'n Dale Light-Up Christmas Tree Mini Figure — $49.99 — Chip 'n Dale — online - in_stock — https://www.disneystore.com/chip-n-dale-light-up-christmas-tree-mini-figure-436001341086.html
+- Mickey Mouse Icon Holiday 33 oz. Stainless Steel Travel Cup with Straw — $44.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-holiday-33-oz.-stainless-steel-travel-cup-with-straw-433111504769.html
+- Walt Disney World Holiday Pullover Sweatshirt for Adults — $69.99 — Jackets & Sweaters — online - in_stock — https://www.disneystore.com/walt-disney-world-holiday-pullover-sweatshirt-for-adults-5102057431448M.html
+- Mickey Mouse Gingerbread Cookie Beanie for Adults — $34.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-gingerbread-cookie-beanie-for-adults-445051152306.html
+- Mickey and Minnie Mouse 'Tis the Season Bowl – Small — $12.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-tis-the-season-bowl-small-433101348922.html
+- Mickey Mouse Icon Wreath Holiday Baseball Cap for Adults – Disneyland — $32.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-baseball-cap-for-adults-disneyland-445001421193.html
+- Cinderella & Beauty and the Beast Storybook Journal — $24.99 — Desk & Stationery — online - in_stock — https://www.disneystore.com/cinderella-beauty-and-the-beast-storybook-journal-435391325812.html
+- Mickey Mouse Icon Wreath Holiday Faux Shearling Jacket for Women — $89.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-faux-shearling-jacket-for-women-5103106031412M.html
+- Mickey and Minnie Mouse Winter Wishes Holiday Placemat — $19.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-placemat-434111328478.html
+- Mickey Mouse Icon Wreath and Fantasyland Castle T-Shirt for Women – Disney Parks — $39.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-wreath-and-fantasyland-castle-t-shirt-for-women-disney-parks-5106057431451M.html
+- Mickey and Minnie Mouse Winter Wishes Holiday Napkin Set — $24.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-napkin-set-434111328218.html
+- Mickey Mouse Icon Winter Wishes Glass — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-glass-433111348769.html
+- Mickey Mouse Icon Wreath ''Happy Holidays'' Spirit Jersey® for Adults — $84.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-wreath-happy-holidays-spirit-jersey-for-adults-5108058381410M.html
+- Mickey Mouse Holiday Fashion T-Shirt for Adults — $36.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-holiday-fashion-t-shirt-for-adults-5205056301363M.html
+- Mickey Mouse Icon Winter Wishes Holiday Stocking — $34.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-holiday-stocking-434081328133.html
+- Disneyland Holiday Pullover Sweatshirt for Adults — $69.99 — Jackets & Sweaters — online - in_stock — https://www.disneystore.com/disneyland-holiday-pullover-sweatshirt-for-adults-5102057431449M.html
+- Mickey Mouse and Friends Holiday Pullover Hoodie for Adults — $59.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-holiday-pullover-hoodie-for-adults-5201056301358M.html
+- Marie Holiday Varsity Jacket for Women by Spirit Jersey® – The Aristocats — $99.99 — Marie — online - in_stock — https://www.disneystore.com/marie-holiday-varsity-jacket-for-women-by-spirit-jersey-the-aristocats-5103058381551M.html
+- Minnie Mouse Reindeer Ear Headband for Adults by BaubleBar — $49.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-reindeer-ear-headband-for-adults-by-baublebar-445032021867.html
+- Minnie Mouse Snowflake Ear Headband for Adults by BaubleBar — $49.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-snowflake-ear-headband-for-adults-by-baublebar-445032022284.html
+- Up Holiday Long Sleeve T-Shirt by Spirit Jersey® — $54.99 — T-Shirts — online - in_stock — https://www.disneystore.com/up-holiday-long-sleeve-t-shirt-by-spirit-jersey-5106058381568M.html
+- The Muppet Christmas Carol Pullover Sweatshirt for Adults by Spirit Jersey® — $59.99 — Jackets & Sweaters — online - in_stock — https://www.disneystore.com/the-muppet-christmas-carol-pullover-sweatshirt-for-adults-by-spirit-jersey-5102058381597M.html
+- Mickey and Minnie Mouse Winter Wishes Fold Out Greeting Card – Disney Parks — $12.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-fold-out-greeting-card-disney-parks-435381325570.html
+- Mickey and Minnie Mouse Winter Wishes Holiday Table Runner — $59.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-table-runner-434111328546.html
+- Mickey and Minnie Mouse Warm Wishes Holiday Tree Skirt — $79.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-warm-wishes-holiday-tree-skirt-434081330358.html
+- Mickey and Minnie Mouse Winter Wishes Salt and Pepper Set — $29.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-salt-and-pepper-set-433121348841.html
+- Mickey and Minnie Mouse Winter Wishes Pillow — $39.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-pillow-434111328058.html
+- Mickey Mouse Ear Faux Shearling Bucket Hat for Adults – Cream — $34.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-ear-faux-shearling-bucket-hat-for-adults-cream-445051152559.html
+- Mickey Mouse Icon Wreath Holiday Baseball Cap for Adults – Walt Disney World — $32.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-baseball-cap-for-adults-walt-disney-world-445001151311.html
+- Snow White and the Seven Dwarfs & Sleeping Beauty Storybook Journal — $24.99 — Snow White.Disney Princess — online - in_stock — https://www.disneystore.com/snow-white-and-the-seven-dwarfs-sleeping-beauty-storybook-journal-435391325652.html
+- Fantasyland Castle Holiday Light-Up Musical Figure — $59.99 — Figurines — online - in_stock — https://www.disneystore.com/fantasyland-castle-holiday-light-up-musical-figure-434081327631.html
+- Minnie Mouse Faux Shearling Ear Headband with Corduroy Bow for Adults — $38.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-faux-shearling-ear-headband-with-corduroy-bow-for-adults-445031151640.html
+- Minnie Mouse Holiday Ear Headband – Pink Peppermint — $38.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-holiday-ear-headband-pink-peppermint-445021686435.html
+- Alice in Wonderland & Peter Pan Storybook Journal — $24.99 — Desk & Stationery — online - in_stock — https://www.disneystore.com/alice-in-wonderland-peter-pan-storybook-journal-435391325997.html
+- Figment ''One Colorful Spark'' Gallery Wrapped Canvas by Tim Rogerson – Limited Edition — $150.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-one-colorful-spark-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022625114.html
+- Figment ''Figment Expressions'' Gallery Wrapped Canvas by Michelle St.Laurent – Signed Limited Edition — $595.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-figment-expressions-gallery-wrapped-canvas-by-michelle-st.laurent-signed-limited-edition-470022625459.html
+- Predator Mask Stamp Distressed '80s Retro Style T-Shirt – Customized — $29.99 —  — online - in_stock — https://www.disneystore.com/predator-mask-stamp-distressed-80s-retro-style-t-shirt-customized-700000326SSCG.html
+- Mickey and Minnie Mouse ''Hug Me'' Gallery Wrapped Canvas by Tim Rogerson – Limited Edition — $150.00 [Limited Edition] — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-hug-me-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022624957.html
+- Mickey Mouse Icon Diamond Gold Ring by Rebecca Hook — $1324.00 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-diamond-gold-ring-by-rebecca-hook-7002057285698M.html
+- Rapunzel Stainless Steel Cruiser Cup with Straw by Corkcicle – Tangled — $40.00 — Rapunzel.Disney Princess — online - in_stock — https://www.disneystore.com/rapunzel-stainless-steel-cruiser-cup-with-straw-by-corkcicle-tangled-850079694545.html
+- Jack Skellington Stainless Steel Tumbler by Corkcicle – The Nightmare Before Christmas — $40.00 — Jack Skellington — online - in_stock — https://www.disneystore.com/jack-skellington-stainless-steel-tumbler-by-corkcicle-the-nightmare-before-christmas-810102848734.html
+- Orange Bird ''Jumpin' Juice'' Gallery Wrapped Canvas by Dom Corona – Signed Limited Edition — $595.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-jumpin-juice-gallery-wrapped-canvas-by-dom-corona-signed-limited-edition-470022626289.html
+- Orange Bird ''Orange Bird Castle'' Gallery Wrapped Canvas by Michelle St.Laurent – Limited Edition — $150.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-orange-bird-castle-gallery-wrapped-canvas-by-michelle-st.laurent-limited-edition-470022625787.html
+- Figment ''Figment's World Tour: Volume 1'' Gallery Wrapped Canvas by Eric Doggett – Limited Edition — $150.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-figments-world-tour-volume-1-gallery-wrapped-canvas-by-eric-doggett-limited-edition-470022626517.html
+- Orange Bird ''Orange Bird Stained Glass'' Gallery Wrapped Canvas by Michelle St.Laurent – Limited Edition — $150.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-orange-bird-stained-glass-gallery-wrapped-canvas-by-michelle-st.laurent-limited-edition-470022625947.html
+- Figment ''One Little Spark'' Gallery Wrapped Canvas by Eric Tan – Limited Edition — $150.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-one-little-spark-gallery-wrapped-canvas-by-eric-tan-limited-edition-470022626777.html
+- Marvel Avengers: Doomsday Doctor Doom Shattered Multiverse T-Shirt – Customized — $29.99 — Doctor Doom — online - in_stock — https://www.disneystore.com/marvel-avengers-doomsday-doctor-doom-shattered-multiverse-t-shirt-customized-700000323SSCG.html
+- Figment ''One Little Spark'' Gallery Wrapped Canvas by Eric Tan – Signed Limited Edition — $595.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-one-little-spark-gallery-wrapped-canvas-by-eric-tan-signed-limited-edition-470022626692.html
+- Figment ''Just a Little Spark'' Gallery Wrapped Canvas by Tim Rogerson – Limited Edition — $150.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-just-a-little-spark-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022625374.html
+- Alien Classic Xenomorph Graphic Novel Art T-Shirt – Customized — $29.99 —  — online - in_stock — https://www.disneystore.com/alien-classic-xenomorph-graphic-novel-art-t-shirt-customized-700000330SSCG.html
+- Alien Property of LV-426 Acheron Colony T-Shirt – Customized — $29.99 —  — online - in_stock — https://www.disneystore.com/alien-property-of-lv-426-acheron-colony-t-shirt-customized-700000329SSCG.html
+- Marvel Avengers: Doomsday A-Symbol Logo T-Shirt – Customized — $29.99 — Doctor Doom — online - in_stock — https://www.disneystore.com/marvel-avengers-doomsday-a-symbol-logo-t-shirt-customized-700000325SSCG.html
+- Figment ''Figment's World Tour: Volume 1'' Gallery Wrapped Canvas by Eric Doggett – Signed Limited Edition — $595.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-figments-world-tour-volume-1-gallery-wrapped-canvas-by-eric-doggett-signed-limited-edition-470022626449.html
+- Orange Bird ''The Original Orange Bird'' Gallery Wrapped Canvas by Eric Tan – Limited Edition — $150.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-the-original-orange-bird-gallery-wrapped-canvas-by-eric-tan-limited-edition-470022626852.html
+- Orange Bird ''Jumpin' Juice'' Gallery Wrapped Canvas by Dom Corona – Limited Edition — $150.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-jumpin-juice-gallery-wrapped-canvas-by-dom-corona-limited-edition-470022626364.html
+- Marvel Avengers: Doomsday Doctor Doom Long Live Latveria T-Shirt – Customized — $29.99 — Doctor Doom — online - in_stock — https://www.disneystore.com/marvel-avengers-doomsday-doctor-doom-long-live-latveria-t-shirt-customized-700000324SSCG.html
+- Lightning McQueen Stainless Steel Go Cup XL with Straw by Corkcicle – Cars — $40.00 — Lightning McQueen — online - in_stock — https://www.disneystore.com/lightning-mcqueen-stainless-steel-go-cup-xl-with-straw-by-corkcicle-cars-810102848758.html
+- Mickey and Minnie Mouse ''Hug Me'' Gallery Wrapped Canvas by Tim Rogerson – Signed Limited Edition — $595.00 [Limited Edition] — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-hug-me-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022624872.html
+- Mickey Mouse and Friends ''The Sensational Six'' Gallery Wrapped Canvas by Tim Rogerson – Signed Limited Edition — $595.00 [Limited Edition] — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-the-sensational-six-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022624612.html
+- Figment ''Figment Expressions'' Gallery Wrapped Canvas by Michelle St.Laurent – Limited Edition — $150.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-figment-expressions-gallery-wrapped-canvas-by-michelle-st.laurent-limited-edition-470022625527.html
+- Orange Bird ''Orange Paints Orange'' Gallery Wrapped Canvas by Tim Rogerson – Signed Limited Edition — $595.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-orange-paints-orange-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022624469.html
+- Mickey Mouse Icon Diamond Ring by Rebecca Hook – Yellow Gold — $978.00 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-diamond-ring-by-rebecca-hook-yellow-gold-7002057285699M.html
+- Mickey Mouse and Friends ''The Sensational Six'' Gallery Wrapped Canvas by Tim Rogerson – Limited Edition — $150.00 [Limited Edition] — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-and-friends-the-sensational-six-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022624797.html
+- Orange Bird ''Orange Paints Orange'' Gallery Wrapped Canvas by Tim Rogerson – Limited Edition — $150.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-orange-paints-orange-gallery-wrapped-canvas-by-tim-rogerson-limited-edition-470022624537.html
+- Figment ''Figment Stained Glass'' Gallery Wrapped Canvas by Michelle St.Laurent – Limited Edition — $150.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-figment-stained-glass-gallery-wrapped-canvas-by-michelle-st.laurent-limited-edition-470022626104.html
+- Figment ''One Colorful Spark'' Gallery Wrapped Canvas by Tim Rogerson – Signed Limited Edition — $595.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-one-colorful-spark-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022625039.html
+- Orange Bird ''Orange Bird Castle'' Gallery Wrapped Canvas by Michelle St.Laurent – Signed Limited Edition — $595.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-orange-bird-castle-gallery-wrapped-canvas-by-michelle-st.laurent-signed-limited-edition-470022625602.html
+- Mickey Mouse Icon Diamond Hoop Gold Earrings by Rebecca Hook — $1498.00 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-diamond-hoop-gold-earrings-by-rebecca-hook-470022450457.html
+- Figment ''Figment Stained Glass'' Gallery Wrapped Canvas by Michelle St.Laurent – Signed Limited Edition — $595.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-figment-stained-glass-gallery-wrapped-canvas-by-michelle-st.laurent-signed-limited-edition-470022626029.html
+- Predator: Badlands Dek with Sword and Movie Logo T-Shirt – Customized — $29.99 —  — online - in_stock — https://www.disneystore.com/predator-badlands-dek-with-sword-and-movie-logo-t-shirt-customized-700000327SSCG.html
+- Orange Bird ''Orange Bird Stained Glass'' Gallery Wrapped Canvas by Michelle St.Laurent – Signed Limited Edition — $595.00 [Limited Edition] — Orange Bird — online - in_stock — https://www.disneystore.com/orange-bird-orange-bird-stained-glass-gallery-wrapped-canvas-by-michelle-st.laurent-signed-limited-edition-470022625862.html
+- Figment ''Just a Little Spark'' Gallery Wrapped Canvas by Tim Rogerson – Signed Limited Edition — $595.00 [Limited Edition] — Figment — online - in_stock — https://www.disneystore.com/figment-just-a-little-spark-gallery-wrapped-canvas-by-tim-rogerson-signed-limited-edition-470022625299.html
+- Alien Facehugger Retro 1979 Movie Poster T-Shirt – Customized — $29.99 —  — online - in_stock — https://www.disneystore.com/alien-facehugger-retro-1979-movie-poster-t-shirt-customized-700000328SSCG.html
+- Mickey Mouse Icon Diamond Ring by Rebecca Hook – White Gold — $978.00 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-diamond-ring-by-rebecca-hook-white-gold-7002057285700M.html
 
-## New on the Featured / Coming Soon page (0)
-- none
+## New on the Featured / Coming Soon page (20)
+- Mickey and Minnie Mouse 'Tis the Season Bowl – Small — $12.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-tis-the-season-bowl-small-433101348922.html
+- Mickey and Minnie Mouse Holiday Appetizer Plate Set — $39.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-appetizer-plate-set-433101349004.html
+- Mickey and Minnie Mouse Winter Wishes Salt and Pepper Set — $29.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-salt-and-pepper-set-433121348841.html
+- Mickey and Minnie Mouse Winter Wishes Holiday Napkin Set — $24.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-napkin-set-434111328218.html
+- Mickey and Minnie Mouse Winter Wishes Holiday Placemat — $19.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-placemat-434111328478.html
+- Mickey and Minnie Mouse Winter Wishes Holiday Table Runner — $59.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-table-runner-434111328546.html
+- Mickey Mouse Icon Winter Wishes Stem Glass — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-stem-glass-433111348684.html
+- Mickey Mouse Icon Winter Wishes Glass — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-glass-433111348769.html
+- Mickey Mouse Icon Holiday 33 oz. Stainless Steel Travel Cup with Straw — $44.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-holiday-33-oz.-stainless-steel-travel-cup-with-straw-433111504769.html
+- Mickey and Minnie Mouse Winter Wishes Holiday Photo Frame – 4'' x 6'' — $29.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-photo-frame-4-x-6-434081327891.html
+- Mickey and Minnie Mouse Winter Wishes Light-Up House Figure — $34.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-light-up-house-figure-434081328393.html
+- Mickey and Minnie Mouse Winter Wishes Pillow — $39.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-pillow-434111328058.html
+- Chip 'n Dale Light-Up Christmas Tree Mini Figure — $49.99 — Chip 'n Dale — online - in_stock — https://www.disneystore.com/chip-n-dale-light-up-christmas-tree-mini-figure-436001341086.html
+- Mickey and Minnie Mouse Winter Wishes Fold Out Greeting Card – Disney Parks — $12.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-fold-out-greeting-card-disney-parks-435381325570.html
+- Mickey Mouse Snow Figure Plush – Mini 6'' — $16.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-snow-figure-plush-mini-6-415161438690.html
+- Minnie Mouse Snow Figure Plush – Mini 6'' — $16.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-snow-figure-plush-mini-6-415161438775.html
+- Mickey and Minnie Mouse Winter Wishes Throw Blanket — $84.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-throw-blanket-434111327976.html
+- Mickey Mouse Icon Winter Wishes Holiday Stocking — $34.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-holiday-stocking-434081328133.html
+- Fantasyland Castle Holiday Light-Up Musical Figure — $59.99 — Figurines — online - in_stock — https://www.disneystore.com/fantasyland-castle-holiday-light-up-musical-figure-434081327631.html
+- Mickey and Minnie Mouse Warm Wishes Holiday Tree Skirt — $79.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-warm-wishes-holiday-tree-skirt-434081330358.html
 
 ## New in the full catalog (not on New Arrivals) (0)
 - none
@@ -18,9 +198,17 @@ New Arrivals grid: 336 items scanned (site says 336) · Featured/Coming Soon pag
 ## Stock changes (New Arrivals items) (0)
 - none
 
-## Rotated off the New Arrivals page (0)
-- none
+## Rotated off the New Arrivals page (4)
+- Chip 'n Dale Holiday Pin Set — https://www.disneystore.com/chip-n-dale-holiday-pin-set-438031331341.html
+- Mickey Mouse Noodle Mug with Lid — https://www.disneystore.com/mickey-mouse-noodle-mug-with-lid-433111552289.html
+- Mickey Mouse Noodle Cup Plush – 6 1/2'' — https://www.disneystore.com/mickey-mouse-noodle-cup-plush-6-12-434111552699.html
+- Mickey Mouse Ramen Bowl Set — https://www.disneystore.com/mickey-mouse-ramen-bowl-set-433101552107.html
 
-## Removed from the catalog sitemap (0)
-- none
+## Removed from the catalog sitemap (6)
+- chip n dale holiday pin set — https://www.disneystore.com/chip-n-dale-holiday-pin-set-438031331341.html
+- fantasyland castle safety chain by pandora — https://www.disneystore.com/fantasyland-castle-safety-chain-by-pandora-443051142587.html
+- grogu zip hoodie for adults star wars the mandalorian — https://www.disneystore.com/grogu-zip-hoodie-for-adults-star-wars-the-mandalorian-5201057431022M.html
+- jessie and friends throw blanket toy story 5 — https://www.disneystore.com/jessie-and-friends-throw-blanket-toy-story-5-032281446420.html
+- lego anzellan starship 75445 star wars the mandalorian and grogu — https://www.disneystore.com/lego-anzellan-starship-75445-star-wars-the-mandalorian-and-grogu-673419422413.html
+- mickey mouse and the skeleton dance 14 zip pullover spirit jersey for adults exclusive — https://www.disneystore.com/mickey-mouse-and-the-skeleton-dance-14-zip-pullover-spirit-jersey-for-adults-exclusive-5108058381418M.html
 
