@@ -1,248 +1,27 @@
-CHANGES: 28 new arrivals · 0 featured · 38 other catalog adds · 132 price · 1 stock
-# Disney Store watch — 2026-11-20T09:14:13.940Z
+CHANGES: 0 new arrivals · 0 featured · 0 other catalog adds · 0 price · 0 stock
+# Disney Store watch — 2026-11-20T12:06:27.528Z
 
-New Arrivals grid: 601 items scanned (site says 601) · Featured/Coming Soon page: 13 · Catalog sitemap: 4822 products
+New Arrivals grid: 599 items scanned (site says 599) · Featured/Coming Soon page: 13 · Catalog sitemap: 4822 products
 
-## NEW on the New Arrivals page (28)
-- Star Wars Holiday 1/4 Zip Pullover Spirit Jersey® for Adults — $89.99 — Tops — online - in_stock — https://www.disneystore.com/star-wars-holiday-14-zip-pullover-spirit-jersey-for-adults-5108058381569M.html
-- Minnie Mouse Sparkle Ear Headband for Adults – Black Cherry — $38.99 — Minnie Mouse — online - in_stock — https://www.disneystore.com/minnie-mouse-sparkle-ear-headband-for-adults-black-cherry-445031209587.html
-- Mickey Mouse Icon Pullover Sweatshirt for Women – Pink — $59.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-pullover-sweatshirt-for-women-pink-5102107691426M.html
-- Mickey Mouse Icon Ankle Socks for Adults – Cherry — $19.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-ankle-socks-for-adults-cherry-442061156027.html
-- Mickey Mouse Flared Leggings for Women – Black Cherry — $69.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-flared-leggings-for-women-black-cherry-5100107691425M.html
-- Disney Hooded Rain Jacket for Women – Black Cherry — $89.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/disney-hooded-rain-jacket-for-women-black-cherry-5103108221396M.html
-- Mickey Mouse Icon Disney Wristlet Zip Case – Cherry — $29.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-disney-wristlet-zip-case-cherry-442051146700.html
-- Mickey Mouse Icon Disney Crossbody Bag – Cherry — $34.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-disney-crossbody-bag-cherry-442031422428.html
-- Mickey Mouse Icon Disney Shoulder Bag – Cherry — $39.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-disney-shoulder-bag-cherry-442031422596.html
-- Mickey Mouse Icon Disney Hair Scrunchie – Cherry — $17.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-disney-hair-scrunchie-cherry-442061473995.html
-- Mickey Mouse Icon Baseball Cap for Adults – Disneyland – Maroon — $32.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-baseball-cap-for-adults-disneyland-maroon-445001151496.html
-- Stitch Snacks Mystery Figure — $16.99 — Stitch — online - in_stock — https://www.disneystore.com/stitch-snacks-mystery-figure-436001341734.html
-- Mickey Mouse Icon Baseball Cap for Adults – Walt Disney World – Maroon — $32.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-baseball-cap-for-adults-walt-disney-world-maroon-445001151564.html
-- Mickey Mouse Icon Athletic Dress for Women – Black Cherry — $89.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-athletic-dress-for-women-black-cherry-5101107691427M.html
-- Peter Pan 25 oz. Stainless Steel Water Bottle with Built-In Straw by Skinnydip — $40.00 — Peter Pan — online - in_stock — https://www.disneystore.com/peter-pan-25-oz.-stainless-steel-water-bottle-with-built-in-straw-by-skinnydip-433111956384.html
-- Peter Pan ''Mermaid Lagoon'' Canvas Tote Bag by Skinnydip — $30.00 — Bags & Wallets — online - in_stock — https://www.disneystore.com/peter-pan-mermaid-lagoon-canvas-tote-bag-by-skinnydip-442031837826.html
-- Mermaid Lagoon Pullover Hoodie by Skinnydip – Peter Pan — $60.00 — Jackets & Sweaters — online - in_stock — https://www.disneystore.com/mermaid-lagoon-pullover-hoodie-by-skinnydip-peter-pan-5102108341542M.html
-- Peter Pan ''Never Land'' Rugby Shirt for Women by Skinnydip — $45.00 — Tops — online - in_stock — https://www.disneystore.com/peter-pan-never-land-rugby-shirt-for-women-by-skinnydip-5106108341544M.html
-- Lost Boys T-Shirt for Women by Skinnydip – Peter Pan — $38.00 — T-Shirts — online - in_stock — https://www.disneystore.com/lost-boys-t-shirt-for-women-by-skinnydip-peter-pan-5106108341543M.html
-- Tinker Bell Beaded Strap by Skinnydip – Peter Pan — $22.00 — Tinker Bell — online - in_stock — https://www.disneystore.com/tinker-bell-beaded-strap-by-skinnydip-peter-pan-442051838162.html
-- Peter Pan Pullover Sweatshirt for Women by Skinnydip — $55.00 — Peter Pan — online - in_stock — https://www.disneystore.com/peter-pan-pullover-sweatshirt-for-women-by-skinnydip-5102108341541M.html
-- Teddy Bear Plush by Skinnydip — Peter Pan — $53.00 — Plush — online - in_stock — https://www.disneystore.com/teddy-bear-plush-by-skinnydip-peter-pan-415161993175.html
-- Peter Pan Beaded Strap by Skinnydip — $22.00 — Jewelry & Watches — online - in_stock — https://www.disneystore.com/peter-pan-beaded-strap-by-skinnydip-442051838247.html
-- Peter Pan ''The Lost Boys'' Tote Bag by Skinnydip — $30.00 — Bags & Wallets — online - in_stock — https://www.disneystore.com/peter-pan-the-lost-boys-tote-bag-by-skinnydip-442031837901.html
-- Peter Pan Cosmetic Bag Set by Skinnydip — $40.00 — Beauty and Makeup — online - in_stock — https://www.disneystore.com/peter-pan-cosmetic-bag-set-by-skinnydip-442001838082.html
-- Charlotte Limited Edition Doll – The Princess and the Frog – Disney Designer Collection– 11 1/2'' — $129.99 [Limited Edition:Low Stock] — Dolls — online - in_stock — https://www.disneystore.com/charlotte-limited-edition-doll-the-princess-and-the-frog-disney-designer-collection-11-12-416141160976.html
-- Mickey and Minnie Mouse Holiday Pin – Disney Magical Melodies – Limited Edition — $24.99 [Limited Edition:Low Stock] — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-pin-disney-magical-melodies-limited-edition-438011332740.html
-- Rapunzel and Flynn Rider Pin – Tangled — $17.99 [:Low Stock] — Rapunzel.Disney Princess — online - in_stock — https://www.disneystore.com/rapunzel-and-flynn-rider-pin-tangled-438031340411.html
+## NEW on the New Arrivals page (0)
+- none
 
 ## New on the Featured / Coming Soon page (0)
 - none
 
-## New in the full catalog (not on New Arrivals) (38)
-- ariel bomber jacket for girls the little mermaid personalized — https://www.disneystore.com/ariel-bomber-jacket-for-girls-the-little-mermaid-personalized-5004108221193M.html
-- aurora costume tiara for kids sleeping beauty — https://www.disneystore.com/aurora-costume-tiara-for-kids-sleeping-beauty-455032778333.html
-- cruella de vil pom pom flair compact mirror bag charm 101 dalmatians — https://www.disneystore.com/cruella-de-vil-pom-pom-flair-compact-mirror-bag-charm-101-dalmatians-442059576240.html
-- darth vader varsity jacket for men by her universe star wars — https://www.disneystore.com/darth-vader-varsity-jacket-for-men-by-her-universe-star-wars-5202057751052M.html
-- disney once upon a story 24 day countdown calendar micro figure set — https://www.disneystore.com/disney-once-upon-a-story-24-day-countdown-calendar-micro-figure-set-416120692214.html
-- disney villains lenticular spirit jersey for adults — https://www.disneystore.com/disney-villains-lenticular-spirit-jersey-for-adults-5108058381229M.html
-- dumbo plush in swaddle disney babies small 10 — https://www.disneystore.com/dumbo-plush-in-swaddle-disney-babies-small-10-415172342481.html
-- finding nemo seagulls seattle seahawks pullover sweatshirt for adults disney champion nfl — https://www.disneystore.com/finding-nemo-seagulls-seattle-seahawks-pullover-sweatshirt-for-adults-disney-champion-nfl-5201108501429M.html
-- gazelle rhinestone t shirt for women zootopia — https://www.disneystore.com/gazelle-rhinestone-t-shirt-for-women-zootopia-5106057431083M.html
-- maleficent mistress of evil t shirt for adults sleeping beauty — https://www.disneystore.com/maleficent-mistress-of-evil-t-shirt-for-adults-sleeping-beauty-5205059161174M.html
-- marvel keyboard fidget keychain bag charm — https://www.disneystore.com/marvel-keyboard-fidget-keychain-bag-charm-463511316822.html
-- mickey and minnie mouse cinderella castle bank walt disney world — https://www.disneystore.com/mickey-and-minnie-mouse-cinderella-castle-bank-walt-disney-world-417140806810.html
-- mickey and minnie mouse cutie ghost t shirt for women — https://www.disneystore.com/mickey-and-minnie-mouse-cutie-ghost-t-shirt-for-women-5106057431232M.html
-- mickey and minnie mouse halloween long sleeve fashion t shirt for girls — https://www.disneystore.com/mickey-and-minnie-mouse-halloween-long-sleeve-fashion-t-shirt-for-girls-5007058381278M.html
-- mickey and minnie mouse halloween spirit jersey for adults — https://www.disneystore.com/mickey-and-minnie-mouse-halloween-spirit-jersey-for-adults-5108058381419M.html
-- mickey mouse americana pullover sweater for women — https://www.disneystore.com/mickey-mouse-americana-pullover-sweater-for-women-5103056301297M.html
-- mickey mouse and friends holiday t shirt for kids — https://www.disneystore.com/mickey-mouse-and-friends-holiday-t-shirt-for-kids-2412106030860M.html
-- mickey mouse cutie ghost baseball jersey for adults — https://www.disneystore.com/mickey-mouse-cutie-ghost-baseball-jersey-for-adults-5205057431205M.html
-- mickey mouse cutie ghost pullover sweatshirt for women — https://www.disneystore.com/mickey-mouse-cutie-ghost-pullover-sweatshirt-for-women-5102057431354M.html
-- mickey mouse gingerbread cookie beanie for adults — https://www.disneystore.com/mickey-mouse-gingerbread-cookie-beanie-for-adults-445051152306.html
-- mickey mouse halloween button down shirt for adults — https://www.disneystore.com/mickey-mouse-halloween-button-down-shirt-for-adults-5207107691132M.html
-- mickey mouse icon and fantasyland castle holiday puffer vest for women — https://www.disneystore.com/mickey-mouse-icon-and-fantasyland-castle-holiday-puffer-vest-for-women-5103107691430M.html
-- mickey mouse icon knit button down top for adults by her universe — https://www.disneystore.com/mickey-mouse-icon-knit-button-down-top-for-adults-by-her-universe-5106057751162M.html
-- mickey mouse icon wreath holiday sleep set for women — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-sleep-set-for-women-5104107671411M.html
-- mickey mouse jack o lantern treat bucket — https://www.disneystore.com/mickey-mouse-jack-o-lantern-treat-bucket-434080860191.html
-- mickey mouse mummy halloween glow in the dark back to front t shirt for women — https://www.disneystore.com/mickey-mouse-mummy-halloween-glow-in-the-dark-back-to-front-t-shirt-for-women-5106056301332M.html
-- mickey mouse peppermint swirl oh joy bracelet by little words project — https://www.disneystore.com/mickey-mouse-peppermint-swirl-oh-joy-bracelet-by-little-words-project-4300107860692M.html
-- mickey mouse plush zip hoodie for baby — https://www.disneystore.com/mickey-mouse-plush-zip-hoodie-for-baby-2400107690616M.html
-- minnie mouse halloween ear headband necklace — https://www.disneystore.com/minnie-mouse-halloween-ear-headband-necklace-443001181192.html
-- reindeer hot cocoa mug sculpted pin the santa clause — https://www.disneystore.com/reindeer-hot-cocoa-mug-sculpted-pin-the-santa-clause-438031504356.html
-- sanderson sisters coin purse bag charm hocus pocus — https://www.disneystore.com/sanderson-sisters-coin-purse-bag-charm-hocus-pocus-442050950100.html
-- the haunted mansion zip hoodie for women disneyland — https://www.disneystore.com/the-haunted-mansion-zip-hoodie-for-women-disneyland-5102107691225M.html
-- the mandalorian and grogu magicband — https://www.disneystore.com/the-mandalorian-and-grogu-magicband-419070698824.html
-- tinker bell pouch by stoney clover lane disneyland 70th anniversary — https://www.disneystore.com/tinker-bell-pouch-by-stoney-clover-lane-disneyland-70th-anniversary-840383255266.html
-- walt disney world pullover sweatshirt for women chocolate — https://www.disneystore.com/walt-disney-world-pullover-sweatshirt-for-women-chocolate-5102057431242M.html
-- walt disney world v neck pullover sweatshirt for adults by her universe — https://www.disneystore.com/walt-disney-world-v-neck-pullover-sweatshirt-for-adults-by-her-universe-5102057751195M.html
-- winnie the pooh winnie the boo halloween t shirt for women exclusive — https://www.disneystore.com/winnie-the-pooh-winnie-the-boo-halloween-t-shirt-for-women-exclusive-5106056301374M.html
-- yzma as cat and bucky the squirrel pin set %C2%A0the emperors new groove 2 pc. — https://www.disneystore.com/yzma-as-cat-and-bucky-the-squirrel-pin-set-%C2%A0the-emperors-new-groove-2-pc.-438031335899.html
+## New in the full catalog (not on New Arrivals) (0)
+- none
 
-## Price changes (New Arrivals items) (132)
-- Stitch 20 oz. Tumbler with Straw – Lilo & Stitch: $24.99 → $18.74 — https://www.disneystore.com/stitch-20-oz.-tumbler-with-straw-lilo-stitch-433111355019.html
-- Max as Powerline 37 oz. Water Bottle – A Goofy Movie: $24.99 → $18.74 — https://www.disneystore.com/max-as-powerline-37-oz.-water-bottle-a-goofy-movie-433111355767.html
-- Minnie Mouse Bows 17 oz. Tumbler with Straw: $24.99 → $18.74 — https://www.disneystore.com/minnie-mouse-bows-17-oz.-tumbler-with-straw-433111355279.html
-- Disney Princess Cakes Stainless Steel 33 oz. Tumbler with Straw: $44.99 → $33.74 — https://www.disneystore.com/disney-princess-cakes-stainless-steel-33-oz.-tumbler-with-straw-433111352957.html
-- Frozen Hooded Zip Fleece Jacket for Girls: $39.99 → $31.99 — https://www.disneystore.com/frozen-hooded-zip-fleece-jacket-for-girls-5003047471313M.html
-- Tinker Bell 20 oz. Tumbler with Straw – Peter Pan: $24.99 → $18.74 — https://www.disneystore.com/tinker-bell-20-oz.-tumbler-with-straw-peter-pan-433111355194.html
-- Walt Disney World Stainless Steel 30 oz. Tumbler with Straw – Black Cherry: $54.99 → $41.24 — https://www.disneystore.com/walt-disney-world-stainless-steel-30-oz.-tumbler-with-straw-black-cherry-433111353114.html
-- Star Wars 20 oz. Water Bottle: $24.99 → $18.74 — https://www.disneystore.com/star-wars-20-oz.-water-bottle-433111355682.html
-- Disney Princess 17 oz. Tumbler with Straw: $24.99 → $18.74 — https://www.disneystore.com/disney-princess-17-oz.-tumbler-with-straw-433111355439.html
-- Stitch Back to Front Hooded Zip Fleece Jacket for Kids – Lilo & Stitch: $39.99 → $31.99 — https://www.disneystore.com/stitch-back-to-front-hooded-zip-fleece-jacket-for-kids-lilo-stitch-2402047471065M.html
-- Marie Hooded Zip Fleece Jacket for Kids – The Aristocats: $39.99 → $31.99 — https://www.disneystore.com/marie-hooded-zip-fleece-jacket-for-kids-the-aristocats-5003047471312M.html
-- Star Wars 1/4 Zip Fleece Jacket for Kids: $39.99 → $31.99 — https://www.disneystore.com/star-wars-14-zip-fleece-jacket-for-kids-2402047471066M.html
-- Disneyland Stainless Steel 30 oz. Tumbler with Straw – Pink: $34.99 → $26.24 — https://www.disneystore.com/disneyland-stainless-steel-30-oz.-tumbler-with-straw-pink-433111353459.html
-- Mickey Mouse Icon Balloons 27 oz. Stainless Steel Water Bottle with Built-In Straw – Disneyland: $44.99 → $33.74 — https://www.disneystore.com/mickey-mouse-icon-balloons-27-oz.-stainless-steel-water-bottle-with-built-in-straw-disneyland-433111353374.html
-- Mickey Mouse Sweaters Stainless Steel 33 oz. Tumbler with Straw: $44.99 → $33.74 — https://www.disneystore.com/mickey-mouse-sweaters-stainless-steel-33-oz.-tumbler-with-straw-433111352872.html
-- Cinderella Costume Nightgown for Girls: $44.99 → $35.99 — https://www.disneystore.com/cinderella-costume-nightgown-for-girls-5005057391245M.html
-- Snow White Costume Nightgown for Girls: $44.99 → $35.99 — https://www.disneystore.com/snow-white-costume-nightgown-for-girls-5005057391246M.html
-- Disney Princess Zip Fleece Jacket for Kids: $39.99 → $31.99 — https://www.disneystore.com/disney-princess-zip-fleece-jacket-for-kids-5003047471314M.html
-- Mickey Mouse 37 oz. Water Bottle: $24.99 → $18.74 — https://www.disneystore.com/mickey-mouse-37-oz.-water-bottle-433111355507.html
-- Mickey Mouse and Friends 20 oz. Tumbler with Straw: $24.99 → $18.74 — https://www.disneystore.com/mickey-mouse-and-friends-20-oz.-tumbler-with-straw-433111354937.html
-- Disney Parks Ducks 27 oz. Stainless Steel Water Bottle with Built-In Straw: $44.99 → $33.74 — https://www.disneystore.com/disney-parks-ducks-27-oz.-stainless-steel-water-bottle-with-built-in-straw-433111353039.html
-- Walt Disney World Stainless Steel 30 oz. Tumbler with Straw – Taupe: $44.99 → $33.74 — https://www.disneystore.com/walt-disney-world-stainless-steel-30-oz.-tumbler-with-straw-taupe-433111353299.html
-- Winnie the Pooh 17 oz. Tumbler with Straw: $24.99 → $18.74 — https://www.disneystore.com/winnie-the-pooh-17-oz.-tumbler-with-straw-433111355354.html
-- Rapunzel Costume Nightgown for Girls – Tangled: $44.99 → $35.99 — https://www.disneystore.com/rapunzel-costume-nightgown-for-girls-tangled-5005057391247M.html
-- LIGHTSABER Blade 31'' – Star Wars: Galaxy's Edge: $54.99 → $50.00 — https://www.disneystore.com/lightsaber-blade-31-star-wars-galaxys-edge-418140894760.html
-- LIGHTSABER Blade 26'' – Star Wars: Galaxy's Edge: $54.99 → $50.00 — https://www.disneystore.com/lightsaber-blade-26-star-wars-galaxys-edge-418140894685.html
-- Beast Urupocha-Chan Plush – Beauty and the Beast – Mini 4 1/2'' – Disney Store Japan: $16.99 → $14.00 — https://www.disneystore.com/beast-urupocha-chan-plush-beauty-and-the-beast-mini-4-12-disney-store-japan-415161629197.html
-- Cogsworth Urupocha-Chan Plush – Beauty and the Beast – Mini 5'' – Disney Store Japan: $16.99 → $14.00 — https://www.disneystore.com/cogsworth-urupocha-chan-plush-beauty-and-the-beast-mini-5-disney-store-japan-415161629432.html
-- Chip Urupocha-Chan Plush – Beauty and the Beast – Mini 3 3/4'' – Disney Store Japan: $16.99 → $14.00 — https://www.disneystore.com/chip-urupocha-chan-plush-beauty-and-the-beast-mini-3-34-disney-store-japan-415161629685.html
-- Belle Urupocha-Chan Plush – Beauty and the Beast – Mini 4 1/2'' – Disney Store Japan: $16.99 → $14.00 — https://www.disneystore.com/belle-urupocha-chan-plush-beauty-and-the-beast-mini-4-12-disney-store-japan-415161629012.html
-- Gaston Urupocha-Chan Plush – Beauty and the Beast – Mini 4 1/2'' – Disney Store Japan: $16.99 → $14.00 — https://www.disneystore.com/gaston-urupocha-chan-plush-beauty-and-the-beast-mini-4-12-disney-store-japan-415161629272.html
-- Beauty and the Beast 35th Anniversary Mug: $24.99 → $18.74 — https://www.disneystore.com/beauty-and-the-beast-35th-anniversary-mug-433111349599.html
-- Lumiere Urupocha-Chan Plush – Beauty and the Beast – Mini 4 1/2'' – Disney Store Japan: $16.99 → $14.00 — https://www.disneystore.com/lumiere-urupocha-chan-plush-beauty-and-the-beast-mini-4-12-disney-store-japan-415161629357.html
-- Mrs. Potts Urupocha-Chan Plush – Beauty and the Beast – Mini 3 3/4'' – Disney Store Japan: $16.99 → $14.00 — https://www.disneystore.com/mrs.-potts-urupocha-chan-plush-beauty-and-the-beast-mini-3-34-disney-store-japan-415161629500.html
-- Hulkbuster Talking Action Figure – Marvel Power Icons: $49.99 → $45.00 — https://www.disneystore.com/hulkbuster-talking-action-figure-marvel-power-icons-417131541065.html
-- Magic Broom Plush – Fantasia – Disney Iconics – 9 1/2'': $19.99 → $16.00 — https://www.disneystore.com/magic-broom-plush-fantasia-disney-iconics-9-12-415161158598.html
-- Glass Slipper Plush – Cinderella – Disney Iconics – 6'': $19.99 → $16.00 — https://www.disneystore.com/glass-slipper-plush-cinderella-disney-iconics-6-415161158260.html
-- Minnie Mouse Icon Holiday Bow Barrette: $17.99 → $13.49 — https://www.disneystore.com/minnie-mouse-icon-holiday-bow-barrette-442061755565.html
-- Genie Lamp Plush – Aladdin – Disney Iconics – 8'': $19.99 → $16.00 — https://www.disneystore.com/genie-lamp-plush-aladdin-disney-iconics-8-415161158345.html
-- Minnie Mouse Icon Wreath Micro Tote Bag Charm: $22.99 → $17.24 — https://www.disneystore.com/minnie-mouse-icon-wreath-micro-tote-bag-charm-442052068568.html
-- Poisoned Apple Plush – Snow White and the Seven Dwarfs – Disney Iconics – 7'': $19.99 → $16.00 — https://www.disneystore.com/poisoned-apple-plush-snow-white-and-the-seven-dwarfs-disney-iconics-7-415161158673.html
-- Enchanted Mirror Plush – Beauty and the Beast – Disney Iconics – 8'': $19.99 → $16.00 — https://www.disneystore.com/enchanted-mirror-plush-beauty-and-the-beast-disney-iconics-8-415161158420.html
-- Mickey and Minnie Mouse '''Hot Chocolate Season'' Tote Bag – Walt Disney World: $19.99 → $14.99 — https://www.disneystore.com/mickey-and-minnie-mouse-hot-chocolate-season-tote-bag-walt-disney-world-442032068151.html
-- Fantasyland Castle Plush – Disney Parks – Disney Iconics – 18'': $44.99 → $30.00 — https://www.disneystore.com/fantasyland-castle-plush-disney-parks-disney-iconics-18-415161158758.html
-- Baymax Talking Action Figure – Big Hero 6 – 12'': $34.99 → $30.00 — https://www.disneystore.com/baymax-talking-action-figure-big-hero-6-12-417131421350.html
-- Chip 'n Dale Glass: $14.99 → $11.24 — https://www.disneystore.com/chip-n-dale-glass-433111552449.html
-- Mickey Mouse Icon Wreath Holiday Loungefly Mini Backpack: $90.00 → $67.50 — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-loungefly-mini-backpack-442091624978.html
-- Mickey Mouse and Friends ''Super 8'' Mug by Darren Wilson: $19.99 → $14.99 — https://www.disneystore.com/mickey-mouse-and-friends-super-8-mug-by-darren-wilson-433111356009.html
-- Mickey Mouse Holiday Fashion T-Shirt for Adults: $36.99 → $27.74 — https://www.disneystore.com/mickey-mouse-holiday-fashion-t-shirt-for-adults-5205056301363M.html
-- Eeyore Floral Mug – Winnie the Pooh: $16.99 → $12.74 — https://www.disneystore.com/eeyore-floral-mug-winnie-the-pooh-433111351394.html
-- Olaf Mug – Frozen: $16.99 → $12.74 — https://www.disneystore.com/olaf-mug-frozen-433111351479.html
-- Mickey and Minnie Mouse Winter Wishes Salt and Pepper Set: $29.99 → $22.49 — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-salt-and-pepper-set-433121348841.html
-- Tinker Bell Classic Doll – Peter Pan – 10'' – Toys for Tots Donation Item: $19.99 → $15.00 — https://www.disneystore.com/tinker-bell-classic-doll-peter-pan-10-toys-for-tots-donation-item-416122301206.html
-- Mickey Mouse Cuddleez Plush – Large 23'' – Toys for Tots Donation Item: $34.99 → $28.00 — https://www.disneystore.com/mickey-mouse-cuddleez-plush-large-23-toys-for-tots-donation-item-415162300965.html
-- Fantasyland Castle Holiday Light-Up Musical Figure: $59.99 → $44.99 — https://www.disneystore.com/fantasyland-castle-holiday-light-up-musical-figure-434081327631.html
-- The Lion King Mug: $16.99 → $12.74 — https://www.disneystore.com/the-lion-king-mug-433111351134.html
-- Mickey Mouse Icon Wreath Holiday Baseball Cap for Adults – Disneyland: $32.99 → $24.74 — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-baseball-cap-for-adults-disneyland-445001421193.html
-- Mickey Mouse Icon Winter Wishes Holiday Stocking – Personalized: $34.99 → $26.24 — https://www.disneystore.com/mickey-mouse-icon-winter-wishes-holiday-stocking-personalized-434081328133.html
-- Rapunzel Disney Once Upon a Story Mini Doll Playset – Tangled – 5'' – Toys for Tots Donation Item: $39.99 → $25.00 — https://www.disneystore.com/rapunzel-disney-once-upon-a-story-mini-doll-playset-tangled-5-toys-for-tots-donation-item-416122301381.html
-- Mickey and Minnie Mouse Winter Wishes Holiday Napkin Set: $24.99 → $18.74 — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-napkin-set-434111328218.html
-- Stitch Sculpted Mug – Lilo & Stitch: $24.99 → $18.74 — https://www.disneystore.com/stitch-sculpted-mug-lilo-stitch-433111351967.html
-- Mickey and Minnie Mouse Snowglobe Charm by BaubleBar: $48.00 → $36.00 — https://www.disneystore.com/mickey-and-minnie-mouse-snowglobe-charm-by-baublebar-442052196933.html
-- Fantasyland Castle Holiday T-Shirt for Girls: $26.99 → $20.24 — https://www.disneystore.com/fantasyland-castle-holiday-t-shirt-for-girls-5007057391234M.html
-- Big Hero 6 Figure Set – Toys for Tots Donation Item: $39.99 → $26.00 — https://www.disneystore.com/big-hero-6-figure-set-toys-for-tots-donation-item-417132301538.html
-- Minnie Mouse Holiday Tree Ear Headband for Adults by BaubleBar: $49.99 → $37.49 — https://www.disneystore.com/minnie-mouse-holiday-tree-ear-headband-for-adults-by-baublebar-445032022109.html
-- Minnie Mouse Two Faced Mug: $16.99 → $12.74 — https://www.disneystore.com/minnie-mouse-two-faced-mug-433111350977.html
-- Mickey Mouse and Friends ''Tea Time'' Mug by Scooter – Mad Tea Party: $19.99 → $14.99 — https://www.disneystore.com/mickey-mouse-and-friends-tea-time-mug-by-scooter-mad-tea-party-433111355842.html
-- Mickey Mouse and Friends ''A Magical Day with Friends'' Mug by Joey Chou: $19.99 → $14.99 — https://www.disneystore.com/mickey-mouse-and-friends-a-magical-day-with-friends-mug-by-joey-chou-433111355927.html
-- Tiana Plush Doll – The Princess and the Frog  – 14 1/2'' – Toys for Tots Donation Item: $29.99 → $22.00 — https://www.disneystore.com/tiana-plush-doll-the-princess-and-the-frog--14-12-toys-for-tots-donation-item-415162301047.html
-- Moana Urupocha-Chan Plush – Mini 4 3/4'' – Disney Store Japan – Toys for Tots Donation Item: $16.99 → $14.00 — https://www.disneystore.com/moana-urupocha-chan-plush-mini-4-34-disney-store-japan-toys-for-tots-donation-item-415162300705.html
-- Mickey and Minnie Mouse Winter Wishes Throw Blanket: $84.99 → $63.74 — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-throw-blanket-434111327976.html
-- Stitch Plush – Lilo & Stitch – Medium 15 3/4'' – Toys for Tots Donation Item: $29.99 → $16.00 — https://www.disneystore.com/stitch-plush-lilo-stitch-medium-15-34-toys-for-tots-donation-item-415152300548.html
-- Rapunzel Sculpted Mug – Tangled: $24.99 → $18.74 — https://www.disneystore.com/rapunzel-sculpted-mug-tangled-433111351547.html
-- Pua Sculpted Mug – Moana: $24.99 → $18.74 — https://www.disneystore.com/pua-sculpted-mug-moana-433111351707.html
-- Mickey and Minnie Mouse Winter Wishes Holiday Table Runner: $59.99 → $44.99 — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-holiday-table-runner-434111328546.html
-- Marie Holiday Varsity Jacket for Women by Spirit Jersey® – The Aristocats: $99.99 → $74.99 — https://www.disneystore.com/marie-holiday-varsity-jacket-for-women-by-spirit-jersey-the-aristocats-5103058381551M.html
-- Donald Duck Plush – 7'' – Toys for Tots Donation Item: $24.99 → $18.00 — https://www.disneystore.com/donald-duck-plush-7-toys-for-tots-donation-item-415152300883.html
-- Marvel Avengers Bath Set – Toys for Tots Donation Item: $29.99 → $22.00 — https://www.disneystore.com/marvel-avengers-bath-set-toys-for-tots-donation-item-417132301798.html
-- Belle's Books Sculpted Mug – Beauty and the Beast: $24.99 → $18.74 — https://www.disneystore.com/belles-books-sculpted-mug-beauty-and-the-beast-433111351622.html
-- Toy Story 5 Sheriff and Space Ranger Badge Set by Mattel – Toys for Tots Donation Item: $12.99 → $10.00 — https://www.disneystore.com/toy-story-5-sheriff-and-space-ranger-badge-set-by-mattel-toys-for-tots-donation-item-417142301610.html
-- Constance Hatchaway ''Constance: The Bride'' Mug by Jasmine Becket-Griffith – The Haunted Mansion: $19.99 → $14.99 — https://www.disneystore.com/constance-hatchaway-constance-the-bride-mug-by-jasmine-becket-griffith-the-haunted-mansion-433111356184.html
-- Mickey and Minnie Mouse Holiday Earring Set by BaubleBar: $68.00 → $51.00 — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-earring-set-by-baublebar-443002143489.html
-- Mickey Mouse Two Faced Mug: $16.99 → $12.74 — https://www.disneystore.com/mickey-mouse-two-faced-mug-433111350892.html
-- Simba Sculpted Mug – The Lion King: $24.99 → $18.74 — https://www.disneystore.com/simba-sculpted-mug-the-lion-king-433111351882.html
-- Mickey and Minnie Mouse Winter Wishes Pillow: $39.99 → $29.99 — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-pillow-434111328058.html
-- Ariel Singing Doll – The Little Mermaid – 11'' – Toys for Tots Donation Item: $29.99 → $25.00 — https://www.disneystore.com/ariel-singing-doll-the-little-mermaid-11-toys-for-tots-donation-item-416122301121.html
-- The Mandalorian Talking Action Figure – 13'' – Star Wars: The Mandalorian – Toys for Tots Donation Item: $37.99 → $30.00 — https://www.disneystore.com/the-mandalorian-talking-action-figure-13-star-wars-the-mandalorian-toys-for-tots-donation-item-417132301460.html
-- Dumbo Mug: $16.99 → $12.74 — https://www.disneystore.com/dumbo-mug-433111351219.html
-- Chip 'n Dale Light-Up Christmas Tree Mini Figure: $49.99 → $37.49 — https://www.disneystore.com/chip-n-dale-light-up-christmas-tree-mini-figure-436001341086.html
-- Fantasyland Castle Holiday Mug: $19.99 → $14.99 — https://www.disneystore.com/fantasyland-castle-holiday-mug-433111504844.html
-- Stitch Two Faced Mug – Lilo & Stitch: $16.99 → $12.74 — https://www.disneystore.com/stitch-two-faced-mug-lilo-stitch-433111351059.html
-- Minnie Mouse Plush – Red – Mini Bean Bag 8 1/4'' – Toys for Tots Donation Item: $14.99 → $12.00 — https://www.disneystore.com/minnie-mouse-plush-red-mini-bean-bag-8-14-toys-for-tots-donation-item-415152300623.html
-- Stitch Duffle Plush – Lilo & Stitch – 9'' – Disney Store Japan: $32.99 → $28.00 — https://www.disneystore.com/stitch-duffle-plush-%C2%A0lilo-stitch-9-disney-store-japan-415161718297.html
-- Chip Duffle Plush – 6 3/4'' – Disney Store Japan: $32.99 → $28.00 — https://www.disneystore.com/chip-duffle-plush-6-34-disney-store-japan-415161718457.html
-- Dale Duffle Plush – 6 3/4'' – Disney Store Japan: $32.99 → $28.00 — https://www.disneystore.com/dale-duffle-plush-6-34-disney-store-japan-415161718372.html
-- Star Wars Droid Factory Holiday Set: $59.99 → $44.99 — https://www.disneystore.com/star-wars-droid-factory-holiday-set-418141603439.html
-- Disney Princess Puffer Jacket for Girls: $44.99 → $35.99 — https://www.disneystore.com/disney-princess-puffer-jacket-for-girls-5004107691239M.html
-- Tigger stanDs Plush – Winnie the Pooh – Disney Store Japan – 5 1/4'': $19.99 → $18.00 — https://www.disneystore.com/tigger-stands-plush-winnie-the-pooh-disney-store-japan-5-14-415161602855.html
-- Tigger Classic Plush – Winnie the Pooh – 10'' – Disney Store Japan: $29.99 → $22.00 — https://www.disneystore.com/tigger-classic-plush-winnie-the-pooh-10-disney-store-japan-415162002630.html
-- Mickey and Minnie Mouse '''Tis the Season'' Pullover Sweatshirt for Women: $54.99 → $41.24 — https://www.disneystore.com/mickey-and-minnie-mouse-tis-the-season-pullover-sweatshirt-for-women-5104057391380M.html
-- Mickey and Minnie Mouse ''Let It Snow'' Spirit Jersey® for Adults: $79.99 → $59.99 — https://www.disneystore.com/mickey-and-minnie-mouse-let-it-snow-spirit-jerseyreg-for-adults-5108058381567M.html
-- Mickey Mouse Puffer Jacket for Kids: $44.99 → $35.99 — https://www.disneystore.com/mickey-mouse-puffer-jacket-for-kids-2413107690884M.html
-- Mickey Mouse at Candy Palace Mini Figure – Disneyland: $39.99 → $29.99 — https://www.disneystore.com/mickey-mouse-at-candy-palace-mini-figure-disneyland-436001341246.html
-- Frozen Puffer Jacket for Kids: $44.99 → $35.99 — https://www.disneystore.com/frozen-puffer-jacket-for-kids-5004107691238M.html
-- Santa Mickey and Minnie Mouse Christmas Tree Topper: $49.99 → $37.49 — https://www.disneystore.com/santa-mickey-and-minnie-mouse-christmas-tree-topper-434081328966.html
-- Star Wars Puffer Jacket for Kids: $44.99 → $35.99 — https://www.disneystore.com/star-wars-puffer-jacket-for-kids-2413107690894M.html
-- Moana 18 oz. Tumbler with Built-In Straw: $16.99 → $12.74 — https://www.disneystore.com/moana-18-oz.-tumbler-with-built-in-straw-433111354029.html
-- Minnie Mouse Puffer Jacket for Kids: $44.99 → $35.99 — https://www.disneystore.com/minnie-mouse-puffer-jacket-for-kids-5004107691237M.html
-- Santa Mickey and Minnie Mouse Disney Parks Glass Ball Ornament Set: $34.99 → $26.24 — https://www.disneystore.com/santa-mickey-and-minnie-mouse-disney-parks-glass-ball-ornament-set-436011343308.html
-- Santa Mickey and Minnie Mouse Holiday Coaster Set: $27.99 → $20.99 — https://www.disneystore.com/santa-mickey-and-minnie-mouse-holiday-coaster-set-433121348193.html
-- Buzz Lightyear Puffer Jacket for Kids – Toy Story: $44.99 → $35.99 — https://www.disneystore.com/buzz-lightyear-puffer-jacket-for-kids-toy-story-2413107690897M.html
-- Piglet Classic Plush – Winnie the Pooh – 11'' – Disney Store Japan: $29.99 → $22.00 — https://www.disneystore.com/piglet-classic-plush-winnie-the-pooh-11-disney-store-japan-415162002555.html
-- Sorcerer Mickey Mouse Puffer Jacket for Adults – Fantasia: $79.99 → $63.99 — https://www.disneystore.com/sorcerer-mickey-mouse-puffer-jacket-for-adults-fantasia-5202107691232M.html
-- Owl stanDs Plush – Winnie the Pooh – Disney Store Japan – 4 1/2'': $19.99 → $18.00 — https://www.disneystore.com/owl-stands-plush-winnie-the-pooh-disney-store-japan-4-12-415161603197.html
-- Buzz Lightyear 18 oz. Tumbler with Built-In Straw – Toy Story 5: $16.99 → $12.74 — https://www.disneystore.com/buzz-lightyear-18-oz.-tumbler-with-built-in-straw-toy-story-5-433111354289.html
-- Mickey and Minnie Mouse Faux Shearling Holiday 1/4 Zip Jacket for Adults: $129.99 → $97.49 — https://www.disneystore.com/mickey-and-minnie-mouse-faux-shearling-holiday-14-zip-jacket-for-adults-5202108221245M.html
-- Disney Parks Holiday 33 oz. Stainless Steel Travel Tumbler with Straw: $49.99 → $37.49 — https://www.disneystore.com/disney-parks-holiday-33-oz.-stainless-steel-travel-tumbler-with-straw-433111348356.html
-- Gingerbread Holiday Mini Spider-Bot – Limited Release: $39.99 → $29.99 — https://www.disneystore.com/gingerbread-holiday-mini-spider-bot-limited-release-418141557985.html
-- Mickey and Minnie Mouse Holiday Throw Blanket: $84.99 → $63.74 — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-throw-blanket-434111328621.html
-- Mickey Mouse and Friends Christmas Cards and Envelopes Set: $19.99 → $14.99 — https://www.disneystore.com/mickey-mouse-and-friends-christmas-cards-and-envelopes-set-435381325402.html
-- Cars 18 oz. Tumbler with Built-In Straw: $16.99 → $12.74 — https://www.disneystore.com/cars-18-oz.-tumbler-with-built-in-straw-433111353602.html
-- Mickey Mouse and Friends Christmas Stocking – Personalized: $34.99 → $26.24 — https://www.disneystore.com/mickey-mouse-and-friends-christmas-stocking-personalized-434081328706.html
-- Eeyore Classic Plush – Winnie the Pooh – 9 1/2'' – Disney Store Japan: $29.99 → $22.00 — https://www.disneystore.com/eeyore-classic-plush-winnie-the-pooh-9-12-disney-store-japan-415162002715.html
-- Star Wars Puffer Jacket for Adults: $79.99 → $63.99 — https://www.disneystore.com/star-wars-puffer-jacket-for-adults-5202107691233M.html
-- Rabbit stanDs Plush – Winnie the Pooh – Disney Store Japan – 6 3/4'': $19.99 → $18.00 — https://www.disneystore.com/rabbit-stands-plush-winnie-the-pooh-disney-store-japan-6-34-415161603012.html
-- Santa Mickey Mouse ''Merry Christmas'' Pullover Sweatshirt for Women: $69.99 → $52.49 — https://www.disneystore.com/santa-mickey-mouse-merry-christmas-pullover-sweatshirt-for-women-5102058381548M.html
-- Minnie Mouse 18 oz. Tumbler with Built-In Straw: $16.99 → $12.74 — https://www.disneystore.com/minnie-mouse-18-oz.-tumbler-with-built-in-straw-433111353947.html
-- Winnie the Pooh and Tigger Puffer Jacket for Adults: $79.99 → $63.99 — https://www.disneystore.com/winnie-the-pooh-and-tigger-puffer-jacket-for-adults-5202107691231M.html
-- Piglet stanDs Plush – Winnie the Pooh – Disney Store Japan – 5 1/2'': $19.99 → $18.00 — https://www.disneystore.com/piglet-stands-plush-winnie-the-pooh-disney-store-japan-5-12-415161602770.html
-- Roo stanDs Plush – Winnie the Pooh – Disney Store Japan – 4 1/2'': $19.99 → $18.00 — https://www.disneystore.com/roo-stands-plush-winnie-the-pooh-disney-store-japan-4-12-415161602930.html
-- Winnie the Pooh stanDs Plush – Disney Store Japan – 5 1/4'': $19.99 → $18.00 — https://www.disneystore.com/winnie-the-pooh-stands-plush-disney-store-japan-5-14-415161602695.html
-- Bluey Plush in Blanket Pouch – Disney Babies – Small 11'': $39.99 → $28.00 — https://www.disneystore.com/bluey-plush-in-blanket-pouch-disney-babies-small-11-415161159090.html
+## Price changes (New Arrivals items) (0)
+- none
 
-## Stock changes (New Arrivals items) (1)
-- Mickey Mouse Holiday Plaid Plush Keychain Bag Charm – 7'' – Exclusive: online - in_stock → outofstock — https://www.disneystore.com/mickey-mouse-holiday-plaid-plush-keychain-bag-charm-7-exclusive-463511210069.html
+## Stock changes (New Arrivals items) (0)
+- none
 
-## Rotated off the New Arrivals page (4)
-- Mickey Mouse Icon Wreath Holiday Faux Shearling Jacket for Women — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-faux-shearling-jacket-for-women-5103106031412M.html
-- Mickey Mouse Gingerbread Cookie Beanie for Adults — https://www.disneystore.com/mickey-mouse-gingerbread-cookie-beanie-for-adults-445051152306.html
-- Stitch Figure with Light-Up Plasma Ball by Grand Jester Studios — https://www.disneystore.com/stitch-figure-with-light-up-plasma-ball-by-grand-jester-studios-028399526826.html
-- Ariel Limited Edition Doll – The Little Mermaid – Disney Designer Collection– 11 1/2'' — https://www.disneystore.com/ariel-limited-edition-doll-the-little-mermaid-disney-designer-collection-11-12-416141160891.html
+## Rotated off the New Arrivals page (2)
+- Mickey Mouse Icon and Fantasyland Castle Holiday Puffer Vest for Women — https://www.disneystore.com/mickey-mouse-icon-and-fantasyland-castle-holiday-puffer-vest-for-women-5103107691430M.html
+- Rapunzel and Flynn Rider Pin – Tangled — https://www.disneystore.com/rapunzel-and-flynn-rider-pin-tangled-438031340411.html
 
-## Removed from the catalog sitemap (25)
-- bitsy ready furr action play set superkitties — https://www.disneystore.com/bitsy-ready-furr-action-play-set-superkitties-886144671173.html
-- disney cats and dogs halloween sleep set for women exclusive — https://www.disneystore.com/disney-cats-and-dogs-halloween-sleep-set-for-women-exclusive-5104056301237M.html
-- disney parks theme park edition monopoly game — https://www.disneystore.com/disney-parks-theme-park-edition-monopoly-game-401060755358.html
-- disney villains jumbo halloween pin limited edition — https://www.disneystore.com/disney-villains-jumbo-halloween-pin-limited-edition-438011239377.html
-- disney wishables shimmer mystery plush bounty hunter star wars day may the 4th be with you 2026 micro — https://www.disneystore.com/disney-wishables-shimmer-mystery-plush-bounty-hunter-star-wars-day-may-the-4th-be-with-you-2026-micro-415160273513.html
-- jack skellington tie dye spirit jersey for adults the nightmare before christmas — https://www.disneystore.com/jack-skellington-tie-dye-spirit-jersey-for-adults-the-nightmare-before-christmas-5108058381221M.html
-- lilo deluxe costume for adults by disguise lilo stitch — https://www.disneystore.com/lilo-deluxe-costume-for-adults-by-disguise-lilo-stitch-5500055630541M.html
-- mickey and minnie mouse halloween dress for women — https://www.disneystore.com/mickey-and-minnie-mouse-halloween-dress-for-women-5101057391265M.html
-- mickey and minnie mouse holiday dooney bourke backpack exclusive — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-dooney-bourke-backpack-exclusive-442101555414.html
-- mickey mouse and friends sweatpants for women by madhappy — https://www.disneystore.com/mickey-mouse-and-friends-sweatpants-for-women-by-madhappy-5100108331454M.html
-- mickey mouse ear baseball cap for adults disneyland — https://www.disneystore.com/mickey-mouse-ear-baseball-cap-for-adults-disneyland-445001756554.html
-- mickey mouse varsity sweater jacket the haunted house — https://www.disneystore.com/mickey-mouse-varsity-sweater-jacket-the-haunted-house-5202106031118M.html
-- mickey mouse velvet mini backpack — https://www.disneystore.com/mickey-mouse-velvet-mini-backpack-442031423418.html
-- minnie mouse witch costume for adults — https://www.disneystore.com/minnie-mouse-witch-costume-for-adults-5500057390489M.html
-- muppets haunted mansion cast mini jumbo pin limited edition — https://www.disneystore.com/muppets-haunted-mansion-cast-mini-jumbo-pin-limited-edition-438011338117.html
-- rapunzel and flynn rider pin tangled — https://www.disneystore.com/rapunzel-and-flynn-rider-pin-tangled-438031340411.html
-- stitch as captain hook plush keychain bag charm peter pan disney villains 8 12 disney store japan — https://www.disneystore.com/stitch-as-captain-hook-plush-keychain-bag-charm-peter-pan-disney-villains-8-12-disney-store-japan-463511241667.html
-- stitch as jafar plush keychain bag charm aladdin disney villains 8 disney store japan — https://www.disneystore.com/stitch-as-jafar-plush-keychain-bag-charm-aladdin-disney-villains-8-disney-store-japan-463511241582.html
-- stitch holiday pin lilo stitch — https://www.disneystore.com/stitch-holiday-pin-lilo-stitch-438031332584.html
-- the haunted mansion bag charm by stoney clover lane — https://www.disneystore.com/the-haunted-mansion-bag-charm-by-stoney-clover-lane-840516588902.html
-- the haunted mansion ghost host loungefly mini backpack — https://www.disneystore.com/the-haunted-mansion-ghost-host-loungefly-mini-backpack-442090947245.html
-- the haunted mansion glow in the dark t shirt for kids — https://www.disneystore.com/the-haunted-mansion-glow-in-the-dark-t-shirt-for-kids-2412107690781M.html
-- the muppet christmas carol long sleeve t shirt for adults — https://www.disneystore.com/the-muppet-christmas-carol-long-sleeve-t-shirt-for-adults-5205058381372M.html
-- tinker bell varsity jacket for adults by stoney clove lane disneyland 70th anniversary — https://www.disneystore.com/tinker-bell-varsity-jacket-for-adults-by-stoney-clove-lane-disneyland-70th-anniversary-5103057431078M.html
-- woody costume for adults toy story — https://www.disneystore.com/woody-costume-for-adults-toy-story-5500041610518M.html
+## Removed from the catalog sitemap (0)
+- none
 
