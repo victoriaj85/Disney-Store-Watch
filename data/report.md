@@ -1,37 +1,38 @@
-CHANGES: 0 new arrivals · 0 featured · 22 other catalog adds · 0 price · 0 stock
-# Disney Store watch — 2026-11-24T15:14:12.450Z
+CHANGES: 23 new arrivals · 0 featured · 0 other catalog adds · 0 price · 0 stock
+# Disney Store watch — 2026-11-24T18:02:04.817Z
 
-New Arrivals grid: 597 items scanned (site says 597) · Featured/Coming Soon page: 11 · Catalog sitemap: 4858 products
+New Arrivals grid: 619 items scanned (site says 619) · Featured/Coming Soon page: 11 · Catalog sitemap: 4858 products
 
-## NEW on the New Arrivals page (0)
-- none
+## NEW on the New Arrivals page (23)
+- Antonio Madrigal Hinged Pin – Encanto – Disney Enchanted Doors – Limited Edition — $26.99 [Limited Edition] — Pins — online - in_stock — https://www.disneystore.com/antonio-madrigal-hinged-pin-encanto-disney-enchanted-doors-limited-edition-438011335710.html
+- Disney Wondrous Winter Mystery Pin Blind Pack – 2-Pc. – Limited Release — $34.99 — Pins — online - in_stock — https://www.disneystore.com/disney-wondrous-winter-mystery-pin-blind-pack-2-pc.-limited-release-438011332252.html
+- Max and Roxanne Holiday Pin – A Goofy Movie — $17.99 — Goofy — online - in_stock — https://www.disneystore.com/max-and-roxanne-holiday-pin-a-goofy-movie-400984769366.html
+- Santa Mickey Mouse ''Happy Holidays'' Mini Jumbo Pin – Limited Edition — $39.99 [Limited Edition] — Mickey Mouse — online - in_stock — https://www.disneystore.com/santa-mickey-mouse-happy-holidays-mini-jumbo-pin-limited-edition-438011331835.html
+- Beauty and the Beast 35th Anniversary Pin Set – 3-Pc. – Limited Edition — $49.99 [Limited Edition] — Belle.Disney Princess — online - in_stock — https://www.disneystore.com/beauty-and-the-beast-35th-anniversary-pin-set-3-pc.-limited-edition-438011331002.html
+- The Lion King Mystery Pin Blind Pack – 2-Pc. — $22.99 — Pins — online - in_stock — https://www.disneystore.com/the-lion-king-mystery-pin-blind-pack-2-pc.-438031336889.html
+- Disney's Hollywood Studios Logo Pin – Walt Disney World — $17.99 — Pins — online - in_stock — https://www.disneystore.com/disneys-hollywood-studios-logo-pin-walt-disney-world-401060175583.html
+- Milo Thatch and Princess Kida Pin – Atlantis: The Lost Empire — $14.99 — Pins — online - in_stock — https://www.disneystore.com/milo-thatch-and-princess-kida-pin-atlantis-the-lost-empire-438031330689.html
+- Disney Winter Gnomes Series 2 Mystery Pin Blind Pack – 2-Pc. — $24.99 — Pins — online - in_stock — https://www.disneystore.com/disney-winter-gnomes-series-2-mystery-pin-blind-pack-2-pc.-438031331679.html
+- Disney's Animal Kingdom Logo Pin – Walt Disney World — $17.99 — Pins — online - in_stock — https://www.disneystore.com/disneys-animal-kingdom-logo-pin-walt-disney-world-401060175590.html
+- Encanto 5th Anniversary Pin Set – Limited Edition — $39.99 [Limited Edition] — Pins — online - in_stock — https://www.disneystore.com/encanto-5th-anniversary-pin-set-limited-edition-438011335635.html
+- Donald and Daisy Duck Caroling Holiday Pin – Limited Edition – Exclusive — $24.99 [Limited Edition] — Donald Duck.Daisy Duck — online - in_stock — https://www.disneystore.com/donald-and-daisy-duck-caroling-holiday-pin-limited-edition-exclusive-438011332900.html
+- Magic Kingdom Logo Pin – Walt Disney World — $17.99 — Pins — online - in_stock — https://www.disneystore.com/magic-kingdom-logo-pin-walt-disney-world-401060175552.html
+- Disney Luminous Laboratory Mystery Pin Blind Pack – 2-Pc. – Limited Release — $34.99 — Pins — online - in_stock — https://www.disneystore.com/disney-luminous-laboratory-mystery-pin-blind-pack-2-pc.-limited-release-438011335147.html
+- EPCOT Logo Pin – Walt Disney World — $17.99 — Pins — online - in_stock — https://www.disneystore.com/epcot-logo-pin-walt-disney-world-401060175576.html
+- Goofy and Max Pin – A Goofy Movie — $14.99 — Goofy — online - in_stock — https://www.disneystore.com/goofy-and-max-pin-a-goofy-movie-400984769373.html
+- Mickey's Christmas Carol Christmas Countdown 2026 Pin – Limited Release — $44.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickeys-christmas-carol-christmas-countdown-2026-pin-limited-release-438012004615.html
+- Santa Mickey and Minnie Mouse Holiday Pin — $14.99 — Mickey Mouse.Minnie Mouse — online - in_stock — https://www.disneystore.com/santa-mickey-and-minnie-mouse-holiday-pin-438031331914.html
+- Mickey Mouse Icon Wreath Holiday Pin — $14.99 — Mickey Mouse — online - in_stock — https://www.disneystore.com/mickey-mouse-icon-wreath-holiday-pin-438031332171.html
+- Chip 'n Dale Caroling Holiday Pin – Limited Edition – Exclusive — $24.99 [Limited Edition] — Chip 'n Dale — online - in_stock — https://www.disneystore.com/chip-n-dale-caroling-holiday-pin-limited-edition-exclusive-438011333082.html
+- Home Alone Puzzle Pin – Limited Edition — $39.99 [Limited Edition] — Pins — online - in_stock — https://www.disneystore.com/home-alone-puzzle-pin-limited-edition-438011755723.html
+- Boba Fett Pin – Star Wars: Icons of the Galaxy – Limited Edition — $24.99 [Limited Edition] — Boba Fett — online - in_stock — https://www.disneystore.com/boba-fett-pin-star-wars-icons-of-the-galaxy-limited-edition-438011330845.html
+- Donald and Daisy Duck Holiday Pin — $14.99 — Donald Duck.Daisy Duck — online - in_stock — https://www.disneystore.com/donald-and-daisy-duck-holiday-pin-438031331594.html
 
 ## New on the Featured / Coming Soon page (0)
 - none
 
-## New in the full catalog (not on New Arrivals) (22)
-- bo peep costume for adults toy story — https://www.disneystore.com/bo-peep-costume-for-adults-toy-story-5500041610519M.html
-- disney cats and dogs halloween t shirt for women exclusive — https://www.disneystore.com/disney-cats-and-dogs-halloween-t-shirt-for-women-exclusive-5106056301235M.html
-- disney villains lenticular spirit jersey for adults — https://www.disneystore.com/disney-villains-lenticular-spirit-jersey-for-adults-5108058381229M.html
-- duchess and marie watch by citizen the aristocats exclusive — https://www.disneystore.com/duchess-and-marie-watch-by-citizen-the-aristocats-exclusive-013205177262.html
-- lego battle droid with stap 75428 star wars the phantom menace — https://www.disneystore.com/lego-battle-droid-with-stap-75428-star-wars-the-phantom-menace-673419407519.html
-- lego doctor doom bust 76345 avengers doomsday — https://www.disneystore.com/lego-doctor-doom-bust-76345-avengers-doomsday-673419422765.html
-- mickey and minnie mouse in love figure by britto — https://www.disneystore.com/mickey-and-minnie-mouse-in-love-figure-by-britto-028399542529.html
-- mickey mouse and cinderella castle pin walt disney world 55th anniversary — https://www.disneystore.com/mickey-mouse-and-cinderella-castle-pin-walt-disney-world-55th-anniversary-438030809544.html
-- mickey mouse cuddleez plush large 23 — https://www.disneystore.com/mickey-mouse-cuddleez-plush-large-23-415161165107.html
-- mickey mouse halloween clogs for kids by crocs — https://www.disneystore.com/mickey-mouse-halloween-clogs-for-kids-by-crocs-4403105850477M.html
-- mickey mouse halloween lounge pants for adults — https://www.disneystore.com/mickey-mouse-halloween-lounge-pants-for-adults-5203107671134M.html
-- mickey mouse icon knit lounge pants for women black cherry — https://www.disneystore.com/mickey-mouse-icon-knit-lounge-pants-for-women-black-cherry-5104057391251M.html
-- mickey mouse translucent 24 oz. starbucks tumbler with straw the haunted house exclusive — https://www.disneystore.com/mickey-mouse-translucent-24-oz.-starbucks-tumbler-with-straw-the-haunted-house-exclusive-433131282586.html
-- mickey mouse watch by bulova clock cleaners — https://www.disneystore.com/mickey-mouse-watch-by-bulova-clock-cleaners-042429608405.html
-- pascal buddy plush tangled 19 — https://www.disneystore.com/pascal-buddy-plush-tangled-19-032281440756.html
-- red costume for kids by disguise descendants the rise of red — https://www.disneystore.com/red-costume-for-kids-by-disguise-descendants-the-rise-of-red-5502055630535M.html
-- statler as jacob marleys ghost mini plush the muppet christmas carol 5 12 — https://www.disneystore.com/statler-as-jacob-marleys-ghost-mini-plush-the-muppet-christmas-carol-5-12-415161672490.html
-- the haunted mansion zip hoodie for women disneyland — https://www.disneystore.com/the-haunted-mansion-zip-hoodie-for-women-disneyland-5102107691225M.html
-- the nightmare before christmas mug — https://www.disneystore.com/the-nightmare-before-christmas-mug-433110855329.html
-- vampire teddy big face canvas tote the nightmare before christmas — https://www.disneystore.com/vampire-teddy-big-face-canvas-tote-the-nightmare-before-christmas-442031243078.html
-- walt disney world holiday pullover sweatshirt for adults — https://www.disneystore.com/walt-disney-world-holiday-pullover-sweatshirt-for-adults-5102057431448M.html
-- winnie the pooh and pals halloween tote exclusive — https://www.disneystore.com/winnie-the-pooh-and-pals-halloween-tote-exclusive-442031282251.html
+## New in the full catalog (not on New Arrivals) (0)
+- none
 
 ## Price changes (New Arrivals items) (0)
 - none
@@ -40,36 +41,8 @@ New Arrivals grid: 597 items scanned (site says 597) · Featured/Coming Soon pag
 - none
 
 ## Rotated off the New Arrivals page (1)
-- Walt Disney World Holiday Pullover Sweatshirt for Adults — https://www.disneystore.com/walt-disney-world-holiday-pullover-sweatshirt-for-adults-5102057431448M.html
+- Winnie the Pooh Holiday Charm by Pandora — https://www.disneystore.com/winnie-the-pooh-holiday-charm-by-pandora-443052168227.html
 
-## Removed from the catalog sitemap (29)
-- bluey halloween figure set — https://www.disneystore.com/bluey-halloween-figure-set-630996176559.html
-- daisy duck 14 snap pullover for women — https://www.disneystore.com/daisy-duck-14-snap-pullover-for-women-5102047881260M.html
-- grogu costume for baby star wars the mandalorian and grogu — https://www.disneystore.com/grogu-costume-for-baby-star-wars-the-mandalorian-and-grogu-5501041610479M.html
-- lightning mcqueen and tow mater pullback stunt vehicles set cars — https://www.disneystore.com/lightning-mcqueen-and-tow-mater-pullback-stunt-vehicles-set-cars-417159137912.html
-- maleficent ear headband sleeping beauty — https://www.disneystore.com/maleficent-ear-headband-sleeping-beauty-445030740074.html
-- mickey and minnie mouse holiday charm set by pandora disney parks — https://www.disneystore.com/mickey-and-minnie-mouse-holiday-charm-set-by-pandora-disney-parks-443052168302.html
-- mickey and minnie mouse in love figure by britto limited edition — https://www.disneystore.com/mickey-and-minnie-mouse-in-love-figure-by-britto-limited-edition-028399542529.html
-- mickey and minnie mouse winter wishes fold out greeting card disney parks — https://www.disneystore.com/mickey-and-minnie-mouse-winter-wishes-fold-out-greeting-card-disney-parks-435381325570.html
-- mickey mouse americana tank top for women — https://www.disneystore.com/mickey-mouse-americana-tank-top-for-women-5106056301299M.html
-- mickey mouse cuddleez plush large 23 — https://www.disneystore.com/mickey-mouse-cuddleez-plush-large-23-415168201372.html
-- mickey mouse cuddleez plush large 23 toys for tots donation item — https://www.disneystore.com/mickey-mouse-cuddleez-plush-large-23-toys-for-tots-donation-item-415162300965.html
-- mickey mouse cutie ghost baseball jersey for adults — https://www.disneystore.com/mickey-mouse-cutie-ghost-baseball-jersey-for-adults-5205057431205M.html
-- mickey mouse gingerbread cookie beanie for adults — https://www.disneystore.com/mickey-mouse-gingerbread-cookie-beanie-for-adults-445051152306.html
-- mickey mouse halloween 2026 plush medium 14 14 exclusive — https://www.disneystore.com/mickey-mouse-halloween-2026-plush-medium-14-14-exclusive-415130694607.html
-- mickey mouse halloween light and sound bubble cutie ghost — https://www.disneystore.com/mickey-mouse-halloween-light-and-sound-bubble-cutie-ghost-418131228222.html
-- mickey mouse holiday plaid plush keychain bag charm 7 exclusive — https://www.disneystore.com/mickey-mouse-holiday-plaid-plush-keychain-bag-charm-7-exclusive-463511210069.html
-- mickey mouse icon and fantasyland castle holiday puffer vest for women — https://www.disneystore.com/mickey-mouse-icon-and-fantasyland-castle-holiday-puffer-vest-for-women-5103107691430M.html
-- mickey mouse varsity sweater jacket the haunted house — https://www.disneystore.com/mickey-mouse-varsity-sweater-jacket-the-haunted-house-5202106031118M.html
-- mickey mouse walt disney world 55th anniversary checklist t shirt for adults — https://www.disneystore.com/mickey-mouse-walt-disney-world-55th-anniversary-checklist-t-shirt-for-adults-5205106031155M.html
-- minnie mouse big face hearts canvas tote — https://www.disneystore.com/minnie-mouse-big-face-hearts-canvas-tote-442030532098.html
-- minnie mouse halloween 2026 plush medium 14 14 exclusive — https://www.disneystore.com/minnie-mouse-halloween-2026-plush-medium-14-14-exclusive-415130694782.html
-- minnie mouse holiday ear headband pink peppermint — https://www.disneystore.com/minnie-mouse-holiday-ear-headband-pink-peppermint-445021686435.html
-- r2 wrwlf star wars droid factory figure — https://www.disneystore.com/r2-wrwlf-star-wars-droid-factory-figure-418140895187.html
-- roo costume for baby winnie the pooh — https://www.disneystore.com/roo-costume-for-baby-winnie-the-pooh-5501055500492M.html
-- sarah sally slater plush doll  the haunted mansion 20 — https://www.disneystore.com/sarah-sally-slater-plush-doll--the-haunted-mansion-20-415160626487.html
-- stitch as mummy halloween ornament lilo stitch — https://www.disneystore.com/stitch-as-mummy-halloween-ornament-lilo-stitch-436010872984.html
-- the haunted mansion gargoyle t shirt for adults — https://www.disneystore.com/the-haunted-mansion-gargoyle-t-shirt-for-adults-5205107691122M.html
-- winnie the pooh and tigger halloween double sided t shirt for adults exclusive — https://www.disneystore.com/winnie-the-pooh-and-tigger-halloween-double-sided-t-shirt-for-adults-exclusive-5205056301276M.html
-- winnie the pooh plush halloween countdown calendar large 17 — https://www.disneystore.com/winnie-the-pooh-plush-halloween-countdown-calendar-large-17-415130694867.html
+## Removed from the catalog sitemap (0)
+- none
 
